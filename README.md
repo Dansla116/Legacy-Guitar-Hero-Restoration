@@ -304,12 +304,11 @@ These tracks only have lyrics added but no additional playable charts.
 8. That Handsome Devil - Elephant Bones
    - OrangeHat - Lyrics
 
-### Guitar Hero (Xbox 360):
-_(none)_
-
-### Guitar Hero (Xbox 360) DLC:
+### Guitar Hero II (Xbox 360):
 9. Deep Purple - Hush
    - laSg14 - Lyrics
+
+### Guitar Hero II (Xbox 360) DLC:
 10. Soilwork - Exile
     - Mason Sparkle - Lyrics
 
