@@ -1,7 +1,9 @@
-This project is dedicated to adding full-band charts to all the songs from the original Guitar Hero games that never saw light in later games that had the full-band experience.  Those games featured a total of 402 songs.  While 207 of those were featured in either a later Guitar Hero (World Tour and beyond) or a Rock Band game, there other 195 were not.  Below is a list of the various levels of progress and all the songs at those stages, grouped by original game.
+This project is dedicated to adding full-band charts to all the tracks from the original Guitar Hero games that never saw light in later games that had the full-band experience.  Those games featured a total of 402 tracks.  While 207 of those were featured in either a later Guitar Hero (World Tour and beyond) or a Rock Band game, the other 195 were not.  Below is a list of tracks - grouped first by level of progress and then by original game.
 
-## _(12/195)_ Complete
-These songs have charts for all four difficulties for the main band (Guitar, Bass, Drums, Vocals).  These are considered complete, but may still benefit from rhythm, keys, or harmonies.
+---
+
+# Complete _(12/195)_
+These tracks have charts for all four difficulties for the main band (Guitar, Bass, Drums, Vocals).  These are considered complete, but may still benefit from rhythm, keys, or harmonies.
 
 ### Guitar Hero:
 
@@ -43,13 +45,15 @@ _(none)_
    - Dansla116 - Merged
 7. Sex Pistols - Anarchy in the U.K.
    - Sygenysis, Nunchuck - Drums, Lyrics, Pitch, Harmonies, Guitar, Bass
-   - _Note:_ Guitar Hero III had audio from a 2007 re-record.  This custom used audio from the 1976 original.  The two versions are so different, that merging them is unreasonable.  So I've opted to just keep the entire custom chart with the original recording.
+   - _Note:_ Guitar Hero III has audio from a 2007 re-record.  This custom used audio from the 1976 original.  The two versions are so different, that merging them is unreasonable.  So I've opted to just keep the entire custom chart with the original recording.
 
 ### Guitar Hero III: Legends of Rock DLC:
 8. DragonForce - Heroes of Our Time
+   - _(original has rhythm instead of bass)_
    - Mickelräven - Bass, Drums, Lyrics, Pitch
    - Dansla116 - Merged
 9. DragonForce - Revolution Deathsquad
+   - _(original has rhythm instead of bass)_
    - YoShibyl - Bass, Drums, Lyrics, Pitch
    - Dansla116 - Merged
 10. Linkin Park - No More Sorrow
@@ -57,7 +61,7 @@ _(none)_
     - Dansla116 - Merged
 11. Sex Pistols - Problems (Live)
     - Sygenysis, Nunchuck - Drums, Lyrics, Pitch
-    - _Note:_ Guitar Hero III DLC had audio from a 2007 live recording.  The custom used audio for the 1976 original.  The two versions are so different, that merging them is unreasonable.  So I’ve opted to just keep the entire custom chart with the original recording.
+    - _Note:_ Guitar Hero III DLC has audio from a 2007 live recording.  The custom used audio from the 1976 original.  The two versions are so different, that merging them is unreasonable.  So I’ve opted to just keep the entire custom chart with the original recording.
 
 ### Guitar Hero: Aerosmith:
 
@@ -73,8 +77,10 @@ _(none)_
 ### Guitar Hero On Tour: Modern Hits:
 _(none)_
 
-## _(41/195)_ Any Additional Chart and Lyrics
-These songs have one or more charts not included in the original game and lyrics (but no pitch).  Also includes instrumentals as their lyrics are technically complete.
+---
+
+# Any Additional Chart and Lyrics _(41/195)_
+These tracks have one or more charts not included in the original game and lyrics (but no pitch).  Also includes instrumentals as their lyrics are technically complete.
 
 ### Guitar Hero:
 1. Black Label Society - Fire it Up
@@ -83,7 +89,7 @@ These songs have one or more charts not included in the original game and lyrics
 2. Burning Brides - Heart Full of Black
    - Youngblood - Expert Drums, Lyrics
    - Dansla116 - Merged
-   - _Note:_ Guitar Hero had a weird tempo map.  Normally, I merge the custom charts onto the Guitar Hero charts.  In this case, I merged the Guitar Hero charts onto the custom charts because it was easier.
+   - _Note:_ Guitar Hero has a weird tempo map.  Normally, I merge the custom charts onto the Guitar Hero charts.  In this case, I merged the Guitar Hero charts onto the custom charts because it was easier.
 3. Drist - Decontrol
    - fouriguy - Expert Bass, Expert Drums, Lyrics
    - Dansla116 - Merged
@@ -104,21 +110,24 @@ These songs have one or more charts not included in the original game and lyrics
 8. Made in Mexico - Yes We Can
    - yellowdog - Expert Drums, Lyrics
    - Dansla116 - Merged
-9. Matthew Sweet - Girlfriend (original has rhythm but no bass)
+9. Matthew Sweet - Girlfriend
+    - _(original has rhythm instead of bass)_
    - TylerFG, Nightmare Lyra - Expert Drums, Lyrics
    - Dansla116 - Merged
-10. Pretenders, The - Tattooed Love Boys
+11. Pretenders, The - Tattooed Love Boys
     - Raspberriel - Lyrics, Pitch
     - Dansla116 - Merged
-11. Strong Bad - Trogdor (original has rhythm but no bass)
+12. Strong Bad - Trogdor
+    - _(original has rhythm instead of bass)_
     - Mickelräven - Drums, Lyrics, Pitch
     - Dansla116 - Merged
-12. Thin Lizzy - Bad Reputation
+13. Thin Lizzy - Bad Reputation
     - Youngblood - Expert Drums, Lyrics
     - Dansla116 - Merged
 
 ### Guitar Hero II (Xbox 360):
 13. My Chemical Romance - Dead!
+    - _(original has rhythm instead of bass)_
     - pksage, 4EverfreeBrony - Bass, Drums
     - Jaded - Lyrics
     - Dansla116 - Merged
@@ -150,28 +159,30 @@ These songs have one or more charts not included in the original game and lyrics
 
 ### Guitar Hero III: Legends of Rock:
 20. Bloc Party - Helicopter
+    - _(original has rhythm instead of bass)_
     - Naonemeu, Nero149 - Expert Bass, Drums, Lyrics, Pitch
     - Dansla116 - Merged
-21. Eric Johnson - Cliffs of Dover (instrumental)
+21. Eric Johnson - Cliffs of Dover
+    - _(instrumental)_
     - 4EverfreeBrony - Expert Drums
     - Dansla116 - Merged
-22. Gallows - In the Belly of a Shark
+23. Gallows - In the Belly of a Shark
     - fouriguy - Expert Drums, Lyrics
     - Dansla116 - Merged
-23. Matchbook Romance - Monsters
+24. Matchbook Romance - Monsters
     - Youngblood - Expert Drums, Lyrics
     - Dansla116 - Merged
-24. Rolling Stones, The - Paint It Black
+25. Rolling Stones, The - Paint It Black
     - Youngblood - Expert Drums
     - FreestyleGames (Guitar Hero TV) - Lyrics, Pitch
     - Dansla116 - Merged
-25. Sleeping, The - Don't Hold Back
+26. Sleeping, The - Don't Hold Back
     - fouriguy - Expert Drums, Lyrics
     - Dansla116 - Merged
-26. Stone Roses, The - She Bangs the Drums
+27. Stone Roses, The - She Bangs the Drums
     - Treebear - Expert Drums, Lyrics
     - Dansla116 - Merged
-27. Superbus - Radio Song
+28. Superbus - Radio Song
     - fouriguy - Expert Drums, Lyrics
     - Dansla116 - Merged
 
@@ -183,6 +194,7 @@ These songs have one or more charts not included in the original game and lyrics
     - Youngblood - Expert Drums, Lyrics
     - Dansla116 - Merged
 30. Steve Ouimette - Devil Went Down to Georgia, The
+    - _(original has rhythm instead of bass)_
     - 4EverfreeBrony - Expert Bass, Expert Drums
     - xX760Xx - Lyrics
     - Dansla116 - Merged
@@ -194,7 +206,7 @@ These songs have one or more charts not included in the original game and lyrics
 32. Aerosmith - Mama Kin
     - Sygenysis, Nunchuck - Drums, Lyrics
     - Dansla116 - Merged
-    - _Note:_ Guitar Hero Aerosmith had audio from a 2008 re-record.  This custom used audio from the 1973 original.  The two versions are different, but I’ve merged them anyway and modified the drum chart to match the re-record.
+    - _Note:_ Guitar Hero Aerosmith has audio from a 2008 re-record.  This custom used audio from the 1973 original.  The two versions are different, but I’ve merged them anyway and modified the drum chart to match the re-record.
 
 ### Guitar Hero On Tour:
 33. Europe - Rock the Night
@@ -224,8 +236,10 @@ These songs have one or more charts not included in the original game and lyrics
 41. Kooks, The - Always Where I Need to Be
     - Haggis - Expert Drums, Lyrics
 
-## _(2/195)_ Any Additional Chart but no Lyrics
-These songs have one or more charts not featured in the original game, but also do not have lyrics like they should.
+---
+
+# Any Additional Chart but no Lyrics _(2/195)_
+These tracks have one or more charts not featured in the original game, but also do not have lyrics like they should.
 
 ### Guitar Hero:
 _(none)_
@@ -262,8 +276,10 @@ _(none)_
 ### Guitar Hero On Tour: Modern Hits:
 _(none)_
 
-## _(33/195)_ Lyrics
-These songs only have lyrics added but no additional playable charts.
+---
+
+# Lyrics _(33/195)_
+These tracks only have lyrics added but no additional playable charts.
 
 ### Guitar Hero:
 1. Black Sabbath - Iron Man
@@ -271,8 +287,10 @@ These songs only have lyrics added but no additional playable charts.
 
 ### Guitar Hero II:
 2. Butthole Surfers - Who Was in My Room Last Night?
+    - _(original has rhythm instead of bass)_
    - yellowdog - Lyrics
 3. Drist - Arterial Black
+   - _(original has rhythm instead of bass)_
    - Supradyke - Lyrics
 4. Megasus - Red Lottery
    - yellowdog - Lyrics
@@ -281,6 +299,7 @@ These songs only have lyrics added but no additional playable charts.
 6. Shadows Fall - Light That Blinds, The
    - GuitarZero132 - Lyrics
 7. Suicidal Tendencies - Institutionalized
+    - _(original has rhythm instead of bass)_
    - Supradyke - Lyrics
 8. That Handsome Devil - Elephant Bones
    - OrangeHat - Lyrics
@@ -304,12 +323,14 @@ _(none)_
 
 ### Guitar Hero III: Legends of Rock:
 14. Aerosmith - Same Old Song and Dance
+    - _(original has rhythm instead of bass)_
     - uncredited - Lyrics
 15. Blue Öyster Cult - Cities on Flame with Rock and Roll
     - Rentoraa - Lyrics
 16. Dope - Nothing for Me Here
     - GuitarZero132 - Lyrics
 17. Héroes del Silencio - Avalancha
+    - _(original has rhythm instead of bass)_
     - MxAly - Lyrics
 18. In Flames - Take This Life
     - CyclopsDragon - Lyrics
@@ -354,8 +375,10 @@ _(none)_
 33. Yellowcard - Lights and Sounds
     - Boldly - Lyrics
 
-## _(107/195)_ Nothing
-These songs have no additional content.
+---
+
+# Nothing _(107/195)_
+These tracks have no additional content.
 
 ### Guitar Hero:
 1. Acro-Brats, The - Callout
@@ -372,19 +395,24 @@ These songs have no additional content.
 
 ### Guitar Hero II:
 12. Acro-Brats, The - Laughtrack
+    - _(original has rhythm instead of bass)_
 13. Aerosmith - Last Child
+    - _(original has rhythm instead of bass)_
 14. Amazing Crowns, The - Mr. Fix-It
 15. Breaking Wheel - One for the Road
-16. Buckethead - Jordan (instrumental)
-17. Count Zero - Radium Eyes
-18. Dick Dale - Misirlou (instrumental)
-19. Iggy Pop and the Stooges - Search and Destroy
-20. Last Vegas, The - Raw Dog
-21. Neighborhoods, The - Parasite
-22. Rolling Stones, The - Can't You Hear Me Knocking
-23. VAGIANT - FTK
-24. Valient Thorr - Fall of Pangea
-25. Voivod - X-Stream, The
+16. Buckethead - Jordan
+    - _(instrumental)_
+18. Count Zero - Radium Eyes
+19. Dick Dale - Misirlou
+    - _(instrumental)_
+21. Iggy Pop and the Stooges - Search and Destroy
+22. Last Vegas, The - Raw Dog
+23. Neighborhoods, The - Parasite
+24. Rolling Stones, The - Can't You Hear Me Knocking
+    - _(original has rhythm instead of bass)_
+26. VAGIANT - FTK
+27. Valient Thorr - Fall of Pangea
+28. Voivod - X-Stream, The
 
 ### Guitar Hero II (Xbox 360):
 26. Noble Rot - Kicked to the Curb
@@ -403,6 +431,7 @@ These songs have no additional content.
 
 ### Guitar Hero III: Legends of Rock:
 35. Bret Michaels Band - Go That Far
+    - _(original has rhythm instead of bass)_
 36. Cream - Sunshine of Your Love
 37. Hellacopters, The - I'm in the Band
 38. L.A. Slum Lords - Down N' Dirty
@@ -412,27 +441,40 @@ These songs have no additional content.
 
 ### Guitar Hero III: Legends of Rock DLC:
 42. AFI - Carcinogen Crush
-43. Buckethead - Soothsayer _(instrumental)_
-44. Coldplay - God Put a Smile upon Your Face
-45. Def Leppard - Nine Lives
-46. Dropkick Murphys - (F)lannigan's Ball
-47. Dropkick Murphys - Famous For Nothing
-48. Extremoduro - So Payaso
-49. Flyleaf - Tina
-50. God of War II - End Begins (to Rock), The _(instrumental)_
-51. L70ETC - I Am Murloc
-52. Marilyn Manson - Putting Holes in Happiness (Nick Zinner Remix)
-53. Martin O'Donnell and Michael Salvatori - Halo Theme MJOLNIR Mix (ft. Steve Vai) _(instrumental)_
-54. Mastodon - Sleeping Giant
-55. Motörhead - Motörhead
-56. Motörhead - Stay Clean
-57. Muse - Exo-Politics
-58. Slash - Slash Guitar Battle _(instrumental)_
-59. Steve Ouimette - Top Gun Anthem _(instrumental)_
-60. Steve Ouimette - We Three Kings _(instrumental)_
-61. Steve Vai - For the Love of God _(instrumental)_
-62. Tom Morello - Tom Morello Guitar Battle _(instrumental)_
-63. Velvet Revolver - Messages
+43. Buckethead - Soothsayer
+    - _(instrumental)_
+45. Coldplay - God Put a Smile upon Your Face
+46. Def Leppard - Nine Lives
+47. Dropkick Murphys - (F)lannigan's Ball
+48. Dropkick Murphys - Famous For Nothing
+49. Extremoduro - So Payaso
+    - _(original has rhythm instead of bass)_
+50. Flyleaf - Tina
+51. God of War II - End Begins (to Rock), The
+    - _(instrumental)_
+53. L70ETC - I Am Murloc
+54. Marilyn Manson - Putting Holes in Happiness (Nick Zinner Remix)
+55. Martin O'Donnell and Michael Salvatori - Halo Theme MJOLNIR Mix (ft. Steve Vai)
+    - _(original has rhythm instead of bass)_
+    - _(instrumental)_
+57. Mastodon - Sleeping Giant
+58. Motörhead - Motörhead
+59. Motörhead - Stay Clean
+60. Muse - Exo-Politics
+61. Slash - Slash Guitar Battle
+    - _(original has rhythm instead of bass)_
+    - _(instrumental)_
+63. Steve Ouimette - Top Gun Anthem
+    - _(instrumental)_
+65. Steve Ouimette - We Three Kings
+    - _(original has rhythm instead of bass)_
+    - _(instrumental)_
+67. Steve Vai - For the Love of God
+    - _(instrumental)_
+69. Tom Morello - Tom Morello Guitar Battle
+    - _(original has rhythm instead of bass)_
+    - _(instrumental)_
+71. Velvet Revolver - Messages
 
 ### Guitar Hero: Aerosmith:
 64. Aerosmith - Beyond Beautiful
@@ -447,14 +489,15 @@ These songs have no additional content.
 73. Aerosmith - Pandora's Box
 74. Aerosmith - Pink
 75. Aerosmith - Uncle Salty
-76. Joe Perry - Joe Perry Guitar Battle (instrumental)
-77. Joe Perry - Mercy
-78. Joe Perry - Shakin' My Cage
-79. Joe Perry - Talk Talkin'
-80. Kinks, The - All Day and All of the Night
-81. Lenny Kravitz - Always on the Run (ft. Slash)
-82. Mott the Hoople - All the Young Dudes
-83. New York Dolls - Personality Crisis
+76. Joe Perry - Joe Perry Guitar Battle
+    - (instrumental)
+78. Joe Perry - Mercy
+79. Joe Perry - Shakin' My Cage
+80. Joe Perry - Talk Talkin'
+81. Kinks, The - All Day and All of the Night
+82. Lenny Kravitz - Always on the Run (ft. Slash)
+83. Mott the Hoople - All the Young Dudes
+84. New York Dolls - Personality Crisis
 
 ### Guitar Hero On Tour:
 84. Beatsteaks - Monster
@@ -486,8 +529,10 @@ These songs have no additional content.
 106. Phoenix - Napoleon Says
 107. Weezer - Everybody Get Dangerous
 
-## _(207)_ Official
-These songs have an official full-band chart.  This project will not include them.  You can find them from the source listed.
+---
+
+# Official _(207)_
+These tracks have an official full-band chart.  This project will not include them.  You can find them from the source listed.
 
 <sup>l</sup> original game had a studio recording or WaveGroup cover while the game listed has a live recording
 
