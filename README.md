@@ -1,8 +1,8 @@
-This project is dedicated to adding full-band charts to all the tracks from the original Guitar Hero games that never saw light in later games that had the full-band experience.  Those games featured a total of 402 tracks.  While 207 of those were featured in either a later Guitar Hero (World Tour and beyond) or a Rock Band game, the other 195 were not.  Below is a list of tracks - grouped first by level of progress and then by original game.
+This project is dedicated to adding full-band charts to all the tracks from the original Guitar Hero games that never saw light in later games that had the full-band experience.  Those games featured a total of 402 tracks.  While 208 of those were featured in either a later Guitar Hero (World Tour and beyond) or a Rock Band game, the other 194 were not.  Below is a list of tracks - grouped first by level of progress and then by original game.
 
 ---
 
-# Complete _(12/195)_
+# Complete _(12/194)_
 These tracks have charts for all four difficulties for the main band (Guitar, Bass, Drums, Vocals).  These are considered complete, but may still benefit from rhythm, keys, or harmonies.
 
 ### Guitar Hero:
@@ -79,7 +79,7 @@ _(none)_
 
 ---
 
-# Any Additional Chart and Lyrics _(41/195)_
+# Any Additional Chart and Lyrics _(41/194)_
 These tracks have one or more charts not included in the original game and lyrics (but no pitch).  Also includes instrumentals as their lyrics are technically complete.
 
 ### Guitar Hero:
@@ -238,7 +238,7 @@ These tracks have one or more charts not included in the original game and lyric
 
 ---
 
-# Any Additional Chart but no Lyrics _(2/195)_
+# Any Additional Chart but no Lyrics _(2/194)_
 These tracks have one or more charts not featured in the original game, but also do not have lyrics like they should.
 
 ### Guitar Hero:
@@ -278,7 +278,7 @@ _(none)_
 
 ---
 
-# Lyrics _(33/195)_
+# Lyrics _(33/194)_
 These tracks only have lyrics added but no additional playable charts.
 
 ### Guitar Hero:
@@ -377,7 +377,7 @@ _(none)_
 
 ---
 
-# Nothing _(107/195)_
+# Nothing _(106/194)_
 These tracks have no additional content.
 
 ### Guitar Hero:
@@ -402,17 +402,17 @@ These tracks have no additional content.
 15. Breaking Wheel - One for the Road
 16. Buckethead - Jordan
     - _(instrumental)_
-18. Count Zero - Radium Eyes
-19. Dick Dale - Misirlou
+17. Count Zero - Radium Eyes
+18. Dick Dale - Misirlou
     - _(instrumental)_
-21. Iggy Pop and the Stooges - Search and Destroy
-22. Last Vegas, The - Raw Dog
-23. Neighborhoods, The - Parasite
-24. Rolling Stones, The - Can't You Hear Me Knocking
+19. Iggy Pop and the Stooges - Search and Destroy
+20. Last Vegas, The - Raw Dog
+21. Neighborhoods, The - Parasite
+22. Rolling Stones, The - Can't You Hear Me Knocking
     - _(original has rhythm instead of bass)_
-26. VAGIANT - FTK
-27. Valient Thorr - Fall of Pangea
-28. Voivod - X-Stream, The
+23. VAGIANT - FTK
+24. Valient Thorr - Fall of Pangea
+25. Voivod - X-Stream, The
 
 ### Guitar Hero II (Xbox 360):
 26. Noble Rot - Kicked to the Curb
@@ -443,100 +443,99 @@ These tracks have no additional content.
 42. AFI - Carcinogen Crush
 43. Buckethead - Soothsayer
     - _(instrumental)_
-45. Coldplay - God Put a Smile upon Your Face
-46. Def Leppard - Nine Lives
-47. Dropkick Murphys - (F)lannigan's Ball
-48. Dropkick Murphys - Famous For Nothing
-49. Extremoduro - So Payaso
+44. Coldplay - God Put a Smile upon Your Face
+45. Def Leppard - Nine Lives
+46. Dropkick Murphys - (F)lannigan's Ball
+47. Dropkick Murphys - Famous For Nothing
+48. Extremoduro - So Payaso
     - _(original has rhythm instead of bass)_
-50. Flyleaf - Tina
-51. God of War II - End Begins (to Rock), The
+49. Flyleaf - Tina
+50. God of War II - End Begins (to Rock), The
     - _(instrumental)_
-53. L70ETC - I Am Murloc
-54. Marilyn Manson - Putting Holes in Happiness (Nick Zinner Remix)
-55. Martin O'Donnell and Michael Salvatori - Halo Theme MJOLNIR Mix (ft. Steve Vai)
-    - _(original has rhythm instead of bass)_
-    - _(instrumental)_
-57. Mastodon - Sleeping Giant
-58. Motörhead - Motörhead
-59. Motörhead - Stay Clean
-60. Muse - Exo-Politics
-61. Slash - Slash Guitar Battle
+51. L70ETC - I Am Murloc
+52. Marilyn Manson - Putting Holes in Happiness (Nick Zinner Remix)
+53. Martin O'Donnell and Michael Salvatori - Halo Theme MJOLNIR Mix (ft. Steve Vai)
     - _(original has rhythm instead of bass)_
     - _(instrumental)_
-63. Steve Ouimette - Top Gun Anthem
-    - _(instrumental)_
-65. Steve Ouimette - We Three Kings
+54. Mastodon - Sleeping Giant
+55. Motörhead - Motörhead
+56. Motörhead - Stay Clean
+57. Muse - Exo-Politics
+58. Slash - Slash Guitar Battle
     - _(original has rhythm instead of bass)_
     - _(instrumental)_
-67. Steve Vai - For the Love of God
+59. Steve Ouimette - Top Gun Anthem
     - _(instrumental)_
-69. Tom Morello - Tom Morello Guitar Battle
+60. Steve Ouimette - We Three Kings
     - _(original has rhythm instead of bass)_
     - _(instrumental)_
-71. Velvet Revolver - Messages
+    - _(instrumental)_
+61. Tom Morello - Tom Morello Guitar Battle
+    - _(original has rhythm instead of bass)_
+    - _(instrumental)_
+62. Velvet Revolver - Messages
 
 ### Guitar Hero: Aerosmith:
-64. Aerosmith - Beyond Beautiful
+63. Aerosmith - Beyond Beautiful
     - _(original has rhythm instead of bass)_
-65. Aerosmith - Bright Light Fright
-66. Aerosmith - Combination
-67. Aerosmith - Kings and Queens
-68. Aerosmith - Let the Music Do the Talking
+64. Aerosmith - Bright Light Fright
+65. Aerosmith - Combination
+66. Aerosmith - Kings and Queens
+67. Aerosmith - Let the Music Do the Talking
     - _(original has rhythm instead of bass)_
-69. Aerosmith - Make It
-70. Aerosmith - Movin' Out
-71. Aerosmith - No Surprize
+68. Aerosmith - Make It
+69. Aerosmith - Movin' Out
+70. Aerosmith - No Surprize
     - _(original has rhythm instead of bass)_
-72. Aerosmith - Nobody's Fault
-73. Aerosmith - Pandora's Box
-74. Aerosmith - Pink
-75. Aerosmith - Uncle Salty
-76. Joe Perry - Joe Perry Guitar Battle
+71. Aerosmith - Nobody's Fault
+72. Aerosmith - Pandora's Box
+73. Aerosmith - Pink
+74. Aerosmith - Uncle Salty
+75. Joe Perry - Joe Perry Guitar Battle
     - _(original has rhythm instead of bass)_
     - (instrumental)
-78. Joe Perry - Mercy
-79. Joe Perry - Shakin' My Cage
-80. Joe Perry - Talk Talkin'
+76. Joe Perry - Mercy
+77. Joe Perry - Shakin' My Cage
+78. Joe Perry - Talk Talkin'
     - _(original has rhythm instead of bass)_
-81. Kinks, The - All Day and All of the Night
-82. Lenny Kravitz - Always on the Run (ft. Slash)
-83. Mott the Hoople - All the Young Dudes
-84. New York Dolls - Personality Crisis
+79. Kinks, The - All Day and All of the Night
+80. Lenny Kravitz - Always on the Run (ft. Slash)
+81. Mott the Hoople - All the Young Dudes
+82. New York Dolls - Personality Crisis
 
 ### Guitar Hero On Tour:
-84. Beatsteaks - Monster
-85. Daughtry - What I Want (ft. Slash)
-86. Mademoiselle K - Ça Me Vexe
-87. Steve Miller Band - Jet Airliner
+83. Beatsteaks - Monster
+84. Daughtry - What I Want (ft. Slash)
+85. Mademoiselle K - Ça Me Vexe
+86. Steve Miller Band - Jet Airliner
 
 ### Guitar Hero On Tour: Decades:
-88. Finley - Diventerai Una Star
-89. Pereza - Estrella Polar
-90. Stone Temple Pilots - Down
+87. Finley - Diventerai Una Star
+88. Pereza - Estrella Polar
+89. Stone Temple Pilots - Down
 
 ### Guitar Hero On Tour: Modern Hits:
-91. Angels and Airwaves - Call to Arms
-92. Atreyu - Falling Down
-93. Avril Lavigne - When You're Gone
-94. Deluxe - Que No
-95. Donnas, The - What Do I Have to Do
-96. Duke Spirit, The - Lassoo
-97. Evanescence - Sweet Sacrifice
-98. Franz Ferdinand - Fallen, The
-99. Kings of Leon - On Call
-100. Klaxons - Golden Skans
-101. Lenny Kravitz - Where Are We Runnin'?
-102. Maxïmo Park - Our Velocity
-103. Modest Mouse - Dashboard
-104. Negramaro - Via Le Mani Dagli Occhi
-105. Phantom Planet - Do the Panic
-106. Phoenix - Napoleon Says
-107. Weezer - Everybody Get Dangerous
+90. Angels and Airwaves - Call to Arms
+91. Atreyu - Falling Down
+92. Avril Lavigne - When You're Gone
+93. Deluxe - Que No
+94. Donnas, The - What Do I Have to Do
+95. Duke Spirit, The - Lassoo
+96. Evanescence - Sweet Sacrifice
+97. Franz Ferdinand - Fallen, The
+98. Kings of Leon - On Call
+99. Klaxons - Golden Skans
+100. Lenny Kravitz - Where Are We Runnin'?
+101. Maxïmo Park - Our Velocity
+102. Modest Mouse - Dashboard
+103. Negramaro - Via Le Mani Dagli Occhi
+104. Phantom Planet - Do the Panic
+105. Phoenix - Napoleon Says
+106. Weezer - Everybody Get Dangerous
 
 ---
 
-# Official _(207)_
+# Official _(208)_
 These tracks have an official full-band chart.  This project will not include them.  You can find them from the source listed.
 
 <sup>l</sup> original game had a studio recording or WaveGroup cover while the game listed has a live recording
@@ -728,48 +727,49 @@ These tracks have an official full-band chart.  This project will not include th
 168. No Doubt - Don't Speak (Rock Band 2 DLC)
 169. No Doubt - Excuse Me Mr. (Rock Band 2 DLC)
 170. No Doubt - Sunday Morning (Rock Band 2 DLC)
-171. Trust - Antisocial (Guitar Hero: World Tour)
-172. Used, The - Pretty Handsome Awkward (Guitar Hero 5 DLC)
+171. Steve Vai - For the Love of God (Rock Band Network 1.0) <sup>l</sup>
+172. Trust - Antisocial (Guitar Hero: World Tour)
+173. Used, The - Pretty Handsome Awkward (Guitar Hero 5 DLC)
 
 ### Guitar Hero: Aerosmith:
-173. Aerosmith - Back in the Saddle (Rock Band 3 DLC)
-174. Aerosmith - Livin' on the Edge (Rock Band 4 DLC)
-175. Aerosmith - Love in an Elevator (Rock Band 4 DLC)
-176. Aerosmith - Rag Doll (Rock Band 4 DLC)
-177. Aerosmith - Rats in the Cellar (Rock Band 4 DLC)
-178. Aerosmith - Sweet Emotion (Rock Band 3 DLC)
-179. Aerosmith - Toys in the Attic (Rock Band 4)
-180. Aerosmith - Train Kept A-Rollin' (Rock Band)
-181. Aerosmith - Walk This Way (Rock Band 3 DLC)
-182. Black Crowes, The - Hard to Handle (Rock Band DLC)
-183. Cheap Trick - Dream Police (Rock Band 3 DLC)
-184. Clash, The - Complete Control (Rock Band)
-185. Cult, The - She Sells Sanctuary (Rock Band 2 DLC)
-186. Joan Jett and the Blackhearts - I Hate Myself for Loving You (Rock Band 4 DLC)
-187. Run-D.M.C. - King of Rock (Rock Band 3 DLC)
-188. Run-D.M.C. - Walk This Way (ft. Aerosmith) (Fortnite Festival: Season 6 ft. Snoop Dogg)
-189. Stone Temple Pilots - Sex Type Thing (Rock Band DLC)
+174. Aerosmith - Back in the Saddle (Rock Band 3 DLC)
+175. Aerosmith - Livin' on the Edge (Rock Band 4 DLC)
+176. Aerosmith - Love in an Elevator (Rock Band 4 DLC)
+177. Aerosmith - Rag Doll (Rock Band 4 DLC)
+178. Aerosmith - Rats in the Cellar (Rock Band 4 DLC)
+179. Aerosmith - Sweet Emotion (Rock Band 3 DLC)
+180. Aerosmith - Toys in the Attic (Rock Band 4)
+181. Aerosmith - Train Kept A-Rollin' (Rock Band)
+182. Aerosmith - Walk This Way (Rock Band 3 DLC)
+183. Black Crowes, The - Hard to Handle (Rock Band DLC)
+184. Cheap Trick - Dream Police (Rock Band 3 DLC)
+185. Clash, The - Complete Control (Rock Band)
+186. Cult, The - She Sells Sanctuary (Rock Band 2 DLC)
+187. Joan Jett and the Blackhearts - I Hate Myself for Loving You (Rock Band 4 DLC)
+188. Run-D.M.C. - King of Rock (Rock Band 3 DLC)
+189. Run-D.M.C. - Walk This Way (ft. Aerosmith) (Fortnite Festival: Season 6 ft. Snoop Dogg)
+190. Stone Temple Pilots - Sex Type Thing (Rock Band DLC)
 
 ### Guitar Hero On Tour:
-190. Brian Setzer (credited to Stray Cats) - Stray Cat Strut (Rock Band 2 DLC)
-191. Doobie Brothers, The - China Grove (Rock Band 3)
-192. Jet - Are You Gonna Be My Girl (Rock Band)
-193. Nirvana - Breed (Rock Band 2 DLC)
-194. Ozzy Osbourne - I Don't Wanna Stop (Rock Band 2 DLC)
-195. Smash Mouth - All Star (Rock Band 2 DLC)
+191. Brian Setzer (credited to Stray Cats) - Stray Cat Strut (Rock Band 2 DLC)
+192. Doobie Brothers, The - China Grove (Rock Band 3)
+193. Jet - Are You Gonna Be My Girl (Rock Band)
+194. Nirvana - Breed (Rock Band 2 DLC)
+195. Ozzy Osbourne - I Don't Wanna Stop (Rock Band 2 DLC)
+196. Smash Mouth - All Star (Rock Band 2 DLC)
 
 ### Guitar Hero On Tour: Decades:
-196. Alien Ant Farm - Smooth Criminal (Rock Band 2 DLC)
-197. Darkness, The - I Believe in a Thing Called Love (Rock Band 3 DLC)
-198. Free - All Right Now (Rock Band Classic Rock Track Pack)
-199. Linkin Park - One Step Closer (Rock Band 2)
-200. Paramore - Crushcrushcrush (Rock Band Track Pack Vol. 1)
-201. Sammy Hagar - I Can't Drive 55 (Rock Band 4 DLC)
-202. Seether - Remedy (Rock Band Network 1.0)
-203. Tokio Hotel - Ready, Set, Go! (Rock Band 2 DLC)
-204. Weezer - Buddy Holly (Rock Band Track Pack Vol. 1)
+197. Alien Ant Farm - Smooth Criminal (Rock Band 2 DLC)
+198. Darkness, The - I Believe in a Thing Called Love (Rock Band 3 DLC)
+199. Free - All Right Now (Rock Band Classic Rock Track Pack)
+200. Linkin Park - One Step Closer (Rock Band 2)
+201. Paramore - Crushcrushcrush (Rock Band Track Pack Vol. 1)
+202. Sammy Hagar - I Can't Drive 55 (Rock Band 4 DLC)
+203. Seether - Remedy (Rock Band Network 1.0)
+204. Tokio Hotel - Ready, Set, Go! (Rock Band 2 DLC)
+205. Weezer - Buddy Holly (Rock Band Track Pack Vol. 1)
 
 ### Guitar Hero On Tour: Modern Hits:
-205. Black Tide - Shockwave (Rock Band Metal Track Pack)
-206. Endeverafter - I Wanna Be Your Man (Rock Band 2 DLC)
-207. Fratellis, The - Chelsea Dagger (Rock Band 4 DLC)
+206. Black Tide - Shockwave (Rock Band Metal Track Pack)
+207. Endeverafter - I Wanna Be Your Man (Rock Band 2 DLC)
+208. Fratellis, The - Chelsea Dagger (Rock Band 4 DLC)
