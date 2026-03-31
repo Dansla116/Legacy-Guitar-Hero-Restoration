@@ -478,22 +478,27 @@ These tracks have no additional content.
 
 ### Guitar Hero: Aerosmith:
 64. Aerosmith - Beyond Beautiful
+    - _(original has rhythm instead of bass)_
 65. Aerosmith - Bright Light Fright
 66. Aerosmith - Combination
 67. Aerosmith - Kings and Queens
 68. Aerosmith - Let the Music Do the Talking
+    - _(original has rhythm instead of bass)_
 69. Aerosmith - Make It
 70. Aerosmith - Movin' Out
 71. Aerosmith - No Surprize
+    - _(original has rhythm instead of bass)_
 72. Aerosmith - Nobody's Fault
 73. Aerosmith - Pandora's Box
 74. Aerosmith - Pink
 75. Aerosmith - Uncle Salty
 76. Joe Perry - Joe Perry Guitar Battle
+    - _(original has rhythm instead of bass)_
     - (instrumental)
 78. Joe Perry - Mercy
 79. Joe Perry - Shakin' My Cage
 80. Joe Perry - Talk Talkin'
+    - _(original has rhythm instead of bass)_
 81. Kinks, The - All Day and All of the Night
 82. Lenny Kravitz - Always on the Run (ft. Slash)
 83. Mott the Hoople - All the Young Dudes
