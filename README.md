@@ -2,6 +2,10 @@ This project is dedicated to adding full-band charts to all the tracks from the 
 
 ---
 
+<img width="1000" height="100" alt="image" src="https://github.com/user-attachments/assets/b6266f5d-018c-44c8-943d-9f8231d3a3bf" />
+
+---
+
 # Complete _(12/194)_
 These tracks have charts for all four difficulties for the main band (Guitar, Bass, Drums, Vocals).  These are considered complete, but may still benefit from rhythm, keys, or harmonies.
 
@@ -248,11 +252,11 @@ _(none)_
 _(none)_
 
 ### Guitar Hero II (Xbox 360):
-1. Atreyu - Ex's and Oh's
-   - Paulo de Bourgogne - 4-Lane Drums
+_(none)_
 
 ### Guitar Hero II (Xbox 360) DLC:
-_(none)_
+1. Atreyu - Ex's and Oh's
+   - Paulo de Bourgogne - 4-Lane Drums
 
 ### Guitar Hero Encore: Rocks the 80s:
 _(none)_
