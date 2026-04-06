@@ -282,7 +282,7 @@ _(none)_
 
 ---
 
-# Lyrics _(33/194)_
+# Lyrics _(30/194)_
 These tracks only have lyrics added but no additional playable charts.
 
 ### Guitar Hero:
@@ -325,62 +325,56 @@ These tracks only have lyrics added but no additional playable charts.
     - GuitarZero132 - Lyrics
 
 ### Guitar Hero III: Legends of Rock:
-14. Aerosmith - Same Old Song and Dance
-    - _(original has rhythm instead of bass)_
-    - uncredited - Lyrics
-15. Blue Öyster Cult - Cities on Flame with Rock and Roll
+14. Blue Öyster Cult - Cities on Flame with Rock and Roll
     - Rentoraa - Lyrics
-16. Dope - Nothing for Me Here
+15. Dope - Nothing for Me Here
     - GuitarZero132 - Lyrics
-17. Héroes del Silencio - Avalancha
+16. Héroes del Silencio - Avalancha
     - _(original has rhythm instead of bass)_
     - MxAly - Lyrics
-18. In Flames - Take This Life
+17. In Flames - Take This Life
     - CyclopsDragon - Lyrics
-19. Scouts of St. Sebastian - In Love
+18. Scouts of St. Sebastian - In Love
     - Zantor - Lyrics
-20. Senses Fail - Can't Be Saved
+19. Senses Fail - Can't Be Saved
     - oBLINKxONCEo - Lyrics
-21. ZZ Top - La Grange
+20. ZZ Top - La Grange
     - metalli3212 - Lyrics
 
 ### Guitar Hero III: Legends of Rock DLC:
-22. Die Fantastischen Vier - Ernten Was Wir Säen
+21. Die Fantastischen Vier - Ernten Was Wir Säen
     - xX760Xx, Chezy - Lyrics
-23. Dropkick Murphys - Johnny, I Hardly Knew Ya
+22. Dropkick Murphys - Johnny, I Hardly Knew Ya
     - Angevil - Lyrics
-24. Thrice - Arsonist, The
+23. Thrice - Arsonist, The
     - Mason Sparkle - Lyrics
-25. Velvet Revolver - She Builds Quick Machines
+24. Velvet Revolver - She Builds Quick Machines
     - Zantor - Lyrics
 
 ### Guitar Hero: Aerosmith:
-26. Aerosmith - Draw the Line
-    - Zantor - Lyrics
-27. Ted Nugent - Cat Scratch Fever
-    - IaSg14 - Lyrics
+_(none)_
 
 ### Guitar Hero On Tour:
-28. Guano Apes - You Can't Stop Me
+25. Guano Apes - You Can't Stop Me
     - Zantor - Lyrics
 
 ### Guitar Hero On Tour: Decades:
-29. Smashing Pumpkins, The - Tarantula
+26. Smashing Pumpkins, The - Tarantula
     - thyhappylittletree - Lyrics
 
 ### Guitar Hero On Tour: Modern Hits:
-30. 12 Stones - Adrenaline
+27. 12 Stones - Adrenaline
     - Zantor - Lyrics
-31. Bravery, The - Unconditional
+28. Bravery, The - Unconditional
     - CyclopsDragon - Lyrics
-32. Offspring, The - Half-Truism
+29. Offspring, The - Half-Truism
     - DirtyHertz - Lyrics
-33. Yellowcard - Lights and Sounds
+30. Yellowcard - Lights and Sounds
     - Boldly - Lyrics
 
 ---
 
-# Nothing _(106/194)_
+# Nothing _(109/194)_
 These tracks have no additional content.
 
 ### Guitar Hero:
@@ -443,98 +437,104 @@ These tracks have no additional content.
 41. Revolverheld - Generation Rock
 
 ### Guitar Hero III: Legends of Rock DLC:
-42. AFI - Carcinogen Crush
-43. Buckethead - Soothsayer
-    - _(instrumental)_
-44. Coldplay - God Put a Smile upon Your Face
-45. Def Leppard - Nine Lives
-46. Dropkick Murphys - (F)lannigan's Ball
-47. Dropkick Murphys - Famous For Nothing
-48. Extremoduro - So Payaso
+42. Aerosmith - Same Old Song and Dance
     - _(original has rhythm instead of bass)_
-49. Flyleaf - Tina
-50. God of War II - End Begins (to Rock), The
+43. AFI - Carcinogen Crush
+44. Buckethead - Soothsayer
     - _(instrumental)_
-51. L70ETC - I Am Murloc
-52. Marilyn Manson - Putting Holes in Happiness (Nick Zinner Remix)
-53. Martin O'Donnell and Michael Salvatori - Halo Theme MJOLNIR Mix (ft. Steve Vai)
+45. Coldplay - God Put a Smile upon Your Face
+46. Def Leppard - Nine Lives
+47. Dropkick Murphys - (F)lannigan's Ball
+48. Dropkick Murphys - Famous For Nothing
+49. Extremoduro - So Payaso
     - _(original has rhythm instead of bass)_
+50. Flyleaf - Tina
+51. God of War II - End Begins (to Rock), The
     - _(instrumental)_
-54. Mastodon - Sleeping Giant
-55. Motörhead - Motörhead
-56. Motörhead - Stay Clean
-57. Muse - Exo-Politics
-58. Slash - Slash Guitar Battle
+52. L70ETC - I Am Murloc
+53. Marilyn Manson - Putting Holes in Happiness (Nick Zinner Remix)
+54. Martin O'Donnell and Michael Salvatori - Halo Theme MJOLNIR Mix (ft. Steve Vai)
     - _(original has rhythm instead of bass)_
     - _(instrumental)_
-59. Steve Ouimette - Top Gun Anthem
+55. Mastodon - Sleeping Giant
+56. Motörhead - Motörhead
+57. Motörhead - Stay Clean
+58. Muse - Exo-Politics
+59. Slash - Slash Guitar Battle
+    - _(original has rhythm instead of bass)_
     - _(instrumental)_
-60. Steve Ouimette - We Three Kings
+60. Steve Ouimette - Top Gun Anthem
+    - _(instrumental)_
+61. Steve Ouimette - We Three Kings
     - _(original has rhythm instead of bass)_
     - _(instrumental)_
     - _(instrumental)_
-61. Tom Morello - Tom Morello Guitar Battle
+62. Tom Morello - Tom Morello Guitar Battle
     - _(original has rhythm instead of bass)_
     - _(instrumental)_
-62. Velvet Revolver - Messages
+63. Velvet Revolver - Messages
 
 ### Guitar Hero: Aerosmith:
-63. Aerosmith - Beyond Beautiful
+64. Aerosmith - Beyond Beautiful
     - _(original has rhythm instead of bass)_
-64. Aerosmith - Bright Light Fright
-65. Aerosmith - Combination
-66. Aerosmith - Kings and Queens
-67. Aerosmith - Let the Music Do the Talking
+65. Aerosmith - Bright Light Fright
+66. Aerosmith - Combination
+67. Aerosmith - Draw the Line
+    - Zantor - Lyrics
+68. Aerosmith - Kings and Queens
+69. Aerosmith - Let the Music Do the Talking
     - _(original has rhythm instead of bass)_
-68. Aerosmith - Make It
-69. Aerosmith - Movin' Out
-70. Aerosmith - No Surprize
+70. Aerosmith - Make It
+77. Aerosmith - Movin' Out
+72. Aerosmith - No Surprize
     - _(original has rhythm instead of bass)_
-71. Aerosmith - Nobody's Fault
-72. Aerosmith - Pandora's Box
-73. Aerosmith - Pink
-74. Aerosmith - Uncle Salty
-75. Joe Perry - Joe Perry Guitar Battle
+73. Aerosmith - Nobody's Fault
+74. Aerosmith - Pandora's Box
+75. Aerosmith - Pink
+76. Aerosmith - Uncle Salty
+77. Joe Perry - Joe Perry Guitar Battle
     - _(original has rhythm instead of bass)_
     - (instrumental)
-76. Joe Perry - Mercy
-77. Joe Perry - Shakin' My Cage
-78. Joe Perry - Talk Talkin'
+78. Joe Perry - Mercy
+79. Joe Perry - Shakin' My Cage
+80. Joe Perry - Talk Talkin'
     - _(original has rhythm instead of bass)_
-79. Kinks, The - All Day and All of the Night
-80. Lenny Kravitz - Always on the Run (ft. Slash)
-81. Mott the Hoople - All the Young Dudes
-82. New York Dolls - Personality Crisis
+81. Kinks, The - All Day and All of the Night
+82. Lenny Kravitz - Always on the Run (ft. Slash)
+83. Mott the Hoople - All the Young Dudes
+84. New York Dolls - Personality Crisis
+85. Ted Nugent - Cat Scratch Fever
+    - IaSg14 - Lyrics
 
 ### Guitar Hero On Tour:
-83. Beatsteaks - Monster
-84. Daughtry - What I Want (ft. Slash)
-85. Mademoiselle K - Ça Me Vexe
-86. Steve Miller Band - Jet Airliner
+86. Beatsteaks - Monster
+87. Daughtry - What I Want (ft. Slash)
+88. Mademoiselle K - Ça Me Vexe
+89. Steve Miller Band - Jet Airliner
 
 ### Guitar Hero On Tour: Decades:
-87. Finley - Diventerai Una Star
-88. Pereza - Estrella Polar
-89. Stone Temple Pilots - Down
+90. Finley - Diventerai Una Star
+91. Pereza - Estrella Polar
+92. Stone Temple Pilots - Down
 
 ### Guitar Hero On Tour: Modern Hits:
-90. Angels and Airwaves - Call to Arms
-91. Atreyu - Falling Down
-92. Avril Lavigne - When You're Gone
-93. Deluxe - Que No
-94. Donnas, The - What Do I Have to Do
-95. Duke Spirit, The - Lassoo
-96. Evanescence - Sweet Sacrifice
-97. Franz Ferdinand - Fallen, The
-98. Kings of Leon - On Call
-99. Klaxons - Golden Skans
-100. Lenny Kravitz - Where Are We Runnin'?
-101. Maxïmo Park - Our Velocity
-102. Modest Mouse - Dashboard
-103. Negramaro - Via Le Mani Dagli Occhi
-104. Phantom Planet - Do the Panic
-105. Phoenix - Napoleon Says
-106. Weezer - Everybody Get Dangerous
+93. Angels and Airwaves - Call to Arms
+94. Atreyu - Falling Down
+95. Avril Lavigne - When You're Gone
+96. Deluxe - Que No
+97. Donnas, The - What Do I Have to Do
+98. Duke Spirit, The - Lassoo
+99. Evanescence - Sweet Sacrifice
+100. Franz Ferdinand - Fallen, The
+101. Kings of Leon - On Call
+102. Klaxons - Golden Skans
+103. Lenny Kravitz - Where Are We Runnin'?
+104. Maxïmo Park - Our Velocity
+105. Modest Mouse - Dashboard
+106. Negramaro - Via Le Mani Dagli Occhi
+107. Phantom Planet - Do the Panic
+108. Phoenix - Napoleon Says
+109. Weezer - Everybody Get Dangerous
 
 ---
 

@@ -1,0 +1,126 @@
+{
+    "type": "base",
+    "sources": [
+		{
+			"ids": [
+				"gh2dlc-fl"
+			],
+			"names": {
+				"en-US": "Guitar Hero II DLC Face Lift"
+			},
+			"icon": "gh2dlc-fl",
+			"type": "custom"
+		},
+		{
+			"ids": [
+				"gh2-fl",
+			],
+			"names": {
+				"en-US": "Guitar Hero II Face Lift"
+			},
+			"icon": "gh2-fl",
+			"type": "custom"
+		},
+		{
+			"ids": [
+				"gh3dlc-fl"
+			],
+			"names": {
+				"en-US": "Guitar Hero III DLC Face Lift"
+			},
+			"icon": "gh3dlc-fl",
+			"type": "custom"
+		},
+		{
+			"ids": [
+				"gh3-fl"
+			],
+			"names": {
+				"en-US": "Guitar Hero III: Legends of Rock Face Lift"
+			},
+			"icon": "gh3-fl",
+			"type": "custom"
+		},
+		{
+			"ids": [
+				"gh80s-fl"
+			],
+			"names": {
+				"en-US": "Guitar Hero Encore: Rocks the 80s Face Lift"
+			},
+			"icon": "gh80s-fl",
+			"type": "custom"
+		},
+		{
+			"ids": [
+				"gha-fl"
+			],
+			"names": {
+				"en-US": "Guitar Hero: Aerosmith Face Lift"
+			},
+			"icon": "gha-fl",
+			"type": "custom"
+		},
+		{
+			"ids": [
+				"gh-fl",
+				"gh1-fl"
+			],
+			"names": {
+				"en-US": "Guitar Hero Face Lift"
+			},
+			"icon": "gh-fl",
+			"type": "custom"
+		},
+		{
+			"ids": [
+				"ghl-fl"
+			],
+			"names": {
+				"en-US": "Guitar Hero Live Face Lift"
+			},
+			"icon": "ghl-fl",
+			"type": "custom"
+		},
+		{
+			"ids": [
+				"ghotd-fl"
+			],
+			"names": {
+				"en-US": "Guitar Hero On Tour: Decades Face Lift"
+			},
+			"icon": "ghotd-fl",
+			"type": "custom"
+		},
+		{
+			"ids": [
+				"ghot-fl"
+			],
+			"names": {
+				"en-US": "Guitar Hero: On Tour Face Lift"
+			},
+			"icon": "ghot-fl",
+			"type": "custom"
+		},
+		{
+			"ids": [
+				"ghotmh-fl"
+			],
+			"names": {
+				"en-US": "Guitar Hero On Tour: Modern Hits Face Lift"
+			},
+			"icon": "ghotmh-fl",
+			"type": "custom"
+		},
+		{
+			"ids": [
+				"ghtv-fl"
+			],
+			"names": {
+				"en-US": "Guitar Hero TV Face Lift"
+			},
+			"icon": "ghtv-fl",
+			"type": "custom"
+		}
+	]
+}
