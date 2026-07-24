@@ -2,7 +2,7 @@ This project is dedicated to adding full-band charts to all the tracks from the 
 
 ---
 
-<img width="1000" height="100" alt="image" src="https://github.com/user-attachments/assets/b6266f5d-018c-44c8-943d-9f8231d3a3bf" />
+<img width="1000" height="100" alt="image" src="https://raw.githubusercontent.com/Dansla116/Legacy-Guitar-Hero-Restoration/refs/heads/main/progress.png" />
 
 ---
 
@@ -19,8 +19,8 @@ These tracks have charts for all four difficulties for the main band (Guitar, Ba
 ### Guitar Hero II:
 
 2. All That Remains - Six
-   - Dansla116 - Easy-Hard Drums, Pitch, Harmonies
    - Mason Sparkle - Expert Drums, Lyrics
+   - Dansla116 - Easy-Hard Drums, Pitch, Harmonies, Merged
 3. Count Zero - Radium Eyes
    - Dansla116 - Drums, Lyrics, Pitch, Merged, Guitar Solo Events
 4. Dethklok - Thunderhorse
