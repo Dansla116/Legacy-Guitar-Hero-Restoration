@@ -6,7 +6,7 @@ This project is dedicated to adding full-band charts to all the tracks from the 
 
 ---
 
-# Complete _(13/194)_
+# Complete _(14/194)_
 These tracks have charts for all four difficulties for the main band (Guitar, Bass, Drums, Vocals).  These are considered complete, but may still benefit from rhythm, keys, or harmonies.
 
 ### Guitar Hero:
@@ -18,12 +18,15 @@ These tracks have charts for all four difficulties for the main band (Guitar, Ba
 
 ### Guitar Hero II:
 
-2. Count Zero - Radium Eyes
+2. All That Remains - Six
+   - Dansla116 - Easy-Hard Drums, Pitch, Harmonies
+   - Mason Sparkle - Expert Drums, Lyrics
+3. Count Zero - Radium Eyes
    - Dansla116 - Drums, Lyrics, Pitch, Merged, Guitar Solo Events
-3. Dethklok - Thunderhorse
+4. Dethklok - Thunderhorse
    - oBLINKxONCEo - Lyrics, Pitch
    - Dansla116 - Drums, Merged
-4. Every Time I Die - New Black, The
+5. Every Time I Die - New Black, The
    - Chainsaw Octopus - Drums, Lyrics, Pitch
    - Dansla116 - Merged, Tempo Map
 
@@ -37,35 +40,35 @@ _(none)_
 
 ### Guitar Hero Encore: Rocks the 80s:
 
-5. Accept - Balls to the Wall
+6. Accept - Balls to the Wall
    - Ghostbyob - Drums, Lyrics, Pitch
    - Dansla116 - Merged
-6. Faster Pussycat - Bathroom Wall
+7. Faster Pussycat - Bathroom Wall
    - Sygenysis, Nunchuck - Drums, Lyrics, Pitch
    - Dansla116 - Merged
 
 ### Guitar Hero III: Legends of Rock:
 
-7. Backyard Babies - Minus Celsius
+8. Backyard Babies - Minus Celsius
    - TheWay123, yb6 - Drums, Lyrics, Pitch, Harmonies
    - Dansla116 - Merged
-8. Sex Pistols - Anarchy in the U.K.
+9. Sex Pistols - Anarchy in the U.K.
    - Sygenysis, Nunchuck - Drums, Lyrics, Pitch, Harmonies, Guitar, Bass
    - _Note:_ Guitar Hero III has audio from a 2007 re-record.  This custom used audio from the 1976 original.  The two versions are so different, that merging them is unreasonable.  So I've opted to just keep the entire custom chart with the original recording.
 
 ### Guitar Hero III: Legends of Rock DLC:
-9. DragonForce - Heroes of Our Time
-   - _(original has rhythm instead of bass)_
-   - Mickelräven - Bass, Drums, Lyrics, Pitch
-   - Dansla116 - Merged
-10. DragonForce - Revolution Deathsquad
+10. DragonForce - Heroes of Our Time
+    - _(original has rhythm instead of bass)_
+    - Mickelräven - Bass, Drums, Lyrics, Pitch
+    - Dansla116 - Merged
+11. DragonForce - Revolution Deathsquad
     - _(original has rhythm instead of bass)_
     - YoShibyl - Bass, Drums, Lyrics, Pitch
     - Dansla116 - Merged
-11. Linkin Park - No More Sorrow
+12. Linkin Park - No More Sorrow
     - MB1Nightmare - Drums, Lyrics, Pitch, Harmonies
     - Dansla116 - Merged
-12. Sex Pistols - Problems (Live)
+13. Sex Pistols - Problems (Live)
     - Sygenysis, Nunchuck - Drums, Lyrics, Pitch
     - _Note:_ Guitar Hero III DLC has audio from a 2007 live recording.  The custom used audio from the 1976 original.  The two versions are so different, that merging them is unreasonable.  So I’ve opted to just keep the entire custom chart with the original recording.
 
@@ -74,7 +77,7 @@ _(none)_
 _(none)_
 
 ### Guitar Hero On Tour:
-13. Lynyrd Skynyrd - I Know a Little
+14. Lynyrd Skynyrd - I Know a Little
     - Sygenysis, Nunchuck - Drums, Lyrics, Pitch
 
 ### Guitar Hero On Tour: Decades:
@@ -85,7 +88,7 @@ _(none)_
 
 ---
 
-# Any Additional Chart and Lyrics _(41/194)_
+# Any Additional Chart and Lyrics _(40/194)_
 These tracks have one or more charts not included in the original game and lyrics (but no pitch).  Also includes instrumentals as their lyrics are technically complete.
 
 ### Guitar Hero:
@@ -107,139 +110,136 @@ These tracks have one or more charts not included in the original game and lyric
    - Dansla116 - Merged
 
 ### Guitar Hero II:
-6. All That Remains - Six
-   - Mason Sparkle - Expert Drums, Lyrics
-   - Dansla116 - Merged, Vocals
-7. Living End, The - Carry Me Home
+6. Living End, The - Carry Me Home
    - Raspberriel - Lyrics, Pitch
    - Dansla116 - Merged, Started Drums
-8. Made in Mexico - Yes We Can
+7. Made in Mexico - Yes We Can
    - yellowdog - Expert Drums, Lyrics
    - Dansla116 - Merged
-9. Matthew Sweet - Girlfriend
+8. Matthew Sweet - Girlfriend
    - _(original has rhythm instead of bass)_
    - TylerFG, Nightmare Lyra - Expert Drums, Lyrics
    - Dansla116 - Merged
-11. Pretenders, The - Tattooed Love Boys
-    - Raspberriel - Lyrics, Pitch
-    - Dansla116 - Merged
-12. Strong Bad - Trogdor
+9. Pretenders, The - Tattooed Love Boys
+   - Raspberriel - Lyrics, Pitch
+   - Dansla116 - Merged
+10. Strong Bad - Trogdor
     - _(original has rhythm instead of bass)_
     - Mickelräven - Drums, Lyrics, Pitch
     - Dansla116 - Merged
-13. Thin Lizzy - Bad Reputation
+11. Thin Lizzy - Bad Reputation
     - Youngblood - Expert Drums, Lyrics
     - Dansla116 - Merged
 
 ### Guitar Hero II (Xbox 360):
-13. My Chemical Romance - Dead!
+12. My Chemical Romance - Dead!
     - _(original has rhythm instead of bass)_
     - pksage, 4EverfreeBrony - Bass, Drums
     - Jaded - Lyrics
     - Dansla116 - Merged
 
 ### Guitar Hero II (Xbox 360) DLC:
-14. Protest the Hero - Bury the Hatchet
+13. Protest the Hero - Bury the Hatchet
     - Guyshenig, CarlTheHomeless, BongOfDestiny, Lowlander2 - Expert Drums, Lyrics, Pitch, Harmonies, Expert Keys
     - Dansla116 - Merged
     - _Note<sup>1</sup>:_ Includes Expert Pro Keys but there were merge difficulties
     - _Note<sup>2</sup>:_ Includes full difficulty Drums and Keys but they are just slight variations / duplicates of Expert Drums and Keys
-15. Dropkick Murphys - State of Massachusetts, The
+14. Dropkick Murphys - State of Massachusetts, The
     - Boo, Bulbasaruman - Expert Drums, Lyrics, Pitch
     - Dansla116 - Merged
-16. My Chemical Romance - This Is How I Disappear
+15. My Chemical Romance - This Is How I Disappear
     - Hoph2o - Drums
     - Jaded - Lyrics
     - Dansla116 - Merged
-17. Trivium - Detonation
+16. Trivium - Detonation
     - Miscellany, Boo - Expert Drums, Lyrics, Pitch
     - Dansla116 - Merged
 
 ### Guitar Hero Encore: Rocks the 80s:
-18. Eddie Money - Shakin'
+17. Eddie Money - Shakin'
     - Sygenysis, Nunchuck - Drums, Lyrics
     - Dansla116 - Merged
-19. White Lion - Radar Love
+18. White Lion - Radar Love
     - Youngblood - Expert Drums, Lyrics
     - Dansla116 - Merged
 
 ### Guitar Hero III: Legends of Rock:
-20. Bloc Party - Helicopter
+19. Bloc Party - Helicopter
     - _(original has rhythm instead of bass)_
     - Naonemeu, Nero149 - Expert Bass, Drums, Lyrics, Pitch
     - Dansla116 - Merged
-21. Eric Johnson - Cliffs of Dover
+20. Eric Johnson - Cliffs of Dover
     - _(instrumental)_
     - 4EverfreeBrony - Expert Drums
     - Dansla116 - Merged
-23. Gallows - In the Belly of a Shark
+21. Gallows - In the Belly of a Shark
     - fouriguy - Expert Drums, Lyrics
     - Dansla116 - Merged
-24. Matchbook Romance - Monsters
+22. Matchbook Romance - Monsters
     - Youngblood - Expert Drums, Lyrics
     - Dansla116 - Merged
-25. Rolling Stones, The - Paint It Black
+23. Rolling Stones, The - Paint It Black
     - Youngblood - Expert Drums
     - FreestyleGames (Guitar Hero TV) - Lyrics, Pitch
     - Dansla116 - Merged
-26. Sleeping, The - Don't Hold Back
+24. Sleeping, The - Don't Hold Back
     - fouriguy - Expert Drums, Lyrics
     - Dansla116 - Merged
-27. Stone Roses, The - She Bangs the Drums
+25. Stone Roses, The - She Bangs the Drums
     - Treebear - Expert Drums, Lyrics
     - Dansla116 - Merged
-28. Superbus - Radio Song
+26. Superbus - Radio Song
     - fouriguy - Expert Drums, Lyrics
     - Dansla116 - Merged
 
 ### Guitar Hero III: Legends of Rock DLC:
-28. Coldplay - Violet Hill
+27. Coldplay - Violet Hill
     - golacotiel - Expert Drums, Lyrics
     - Dansla116 - Merged
-29. Muse - Stockholm Syndrome
+28. Muse - Stockholm Syndrome
     - Youngblood - Expert Drums, Lyrics
     - Dansla116 - Merged
-30. Steve Ouimette - Devil Went Down to Georgia, The
+29. Steve Ouimette - Devil Went Down to Georgia, The
     - _(original has rhythm instead of bass)_
     - 4EverfreeBrony - Expert Bass, Expert Drums
     - xX760Xx - Lyrics
     - Dansla116 - Merged
-31. Velvet Revolver - Slither
+30. Velvet Revolver - Slither
     - 4EverfreeBrony - Expert Drums, Lyrics
     - Dansla116 - Merged
 
 ### Guitar Hero: Aerosmith:
-32. Aerosmith - Mama Kin
+31. Aerosmith - Mama Kin
     - Sygenysis, Nunchuck - Drums, Lyrics
     - Dansla116 - Merged
     - _Note:_ Guitar Hero Aerosmith has audio from a 2008 re-record.  This custom used audio from the 1973 original.  The two versions are different, but I’ve merged them anyway and modified the drum chart to match the re-record.
 
 ### Guitar Hero On Tour:
-33. Europe - Rock the Night
+32. Europe - Rock the Night
     - FreestyleGames (Guitar Hero TV) - Lyrics, Pitch
     - Dansla116 - Merged
-34. Freezepop - i am not your gameboy
+33. Freezepop - i am not your gameboy
     - Raspberriel - Lyrics, Pitch
-35. Incubus - Anna Molly
+34. Incubus - Anna Molly
     - fouriguy - Expert Drums
     - Jaded - Lyrics, Pitch
-36. Red Hot Chili Peppers - Knock Me Down
+35. Red Hot Chili Peppers - Knock Me Down
     - Raspberriel - Lyrics, Pitch
-37. Skid Row - Youth Gone Wild
+36. Skid Row - Youth Gone Wild
     - Debugmod12 - Expert Drums, Lyrics
 
 ### Guitar Hero On Tour: Decades:
-38. Red Hot Chili Peppers - Can't Stop
+37. Red Hot Chili Peppers - Can't Stop
     - highfine - Expert Drums, Lyrics
-39. Veruca Salt - Volcano Girls
+38. Veruca Salt - Volcano Girls
     - FreestyleGames (Guitar Hero TV) - Lyrics, Pitch
     - Dansla116 - Merged
 
 ### Guitar Hero On Tour: Modern Hits:
-40. Dandy Warhols, The - Bohemian Like You
+39. Dandy Warhols, The - Bohemian Like You
     - FreestyleGames (Guitar Hero TV) - Lyrics, Pitch
     - Dansla116 - Merged
-41. Kooks, The - Always Where I Need to Be
+40. Kooks, The - Always Where I Need to Be
     - Haggis - Expert Drums, Lyrics
 
 ---
@@ -285,7 +285,7 @@ _(none)_
 ---
 
 # Lyrics _(30/194)_
-These tracks only have lyrics added but no additional playable charts.
+These tracks only have lyrics added and no additional playable charts.
 
 ### Guitar Hero:
 1. Black Sabbath - Iron Man
@@ -469,7 +469,6 @@ These tracks have no additional content.
 60. Steve Ouimette - We Three Kings
     - _(original has rhythm instead of bass)_
     - _(instrumental)_
-    - _(instrumental)_
 61. Tom Morello - Tom Morello Guitar Battle
     - _(original has rhythm instead of bass)_
     - _(instrumental)_
@@ -505,7 +504,6 @@ These tracks have no additional content.
 82. Mott the Hoople - All the Young Dudes
 83. New York Dolls - Personality Crisis
 84. Ted Nugent - Cat Scratch Fever
-    - IaSg14 - Lyrics
 
 ### Guitar Hero On Tour:
 85. Beatsteaks - Monster
