@@ -6,7 +6,7 @@ This project is dedicated to adding full-band charts to all the tracks from the 
 
 ---
 
-# Complete _(12/194)_
+# Complete _(13/194)_
 These tracks have charts for all four difficulties for the main band (Guitar, Bass, Drums, Vocals).  These are considered complete, but may still benefit from rhythm, keys, or harmonies.
 
 ### Guitar Hero:
@@ -18,10 +18,12 @@ These tracks have charts for all four difficulties for the main band (Guitar, Ba
 
 ### Guitar Hero II:
 
-2. Dethklok - Thunderhorse
+2. Count Zero - Radium Eyes
+   - Dansla116 - Drums, Lyrics, Pitch, Merged, Guitar Solo Events
+3. Dethklok - Thunderhorse
    - oBLINKxONCEo - Lyrics, Pitch
    - Dansla116 - Drums, Merged
-3. Every Time I Die - New Black, The
+4. Every Time I Die - New Black, The
    - Chainsaw Octopus - Drums, Lyrics, Pitch
    - Dansla116 - Merged, Tempo Map
 
@@ -35,35 +37,35 @@ _(none)_
 
 ### Guitar Hero Encore: Rocks the 80s:
 
-4. Accept - Balls to the Wall
+5. Accept - Balls to the Wall
    - Ghostbyob - Drums, Lyrics, Pitch
    - Dansla116 - Merged
-5. Faster Pussycat - Bathroom Wall
+6. Faster Pussycat - Bathroom Wall
    - Sygenysis, Nunchuck - Drums, Lyrics, Pitch
    - Dansla116 - Merged
 
 ### Guitar Hero III: Legends of Rock:
 
-6. Backyard Babies - Minus Celsius
+7. Backyard Babies - Minus Celsius
    - TheWay123, yb6 - Drums, Lyrics, Pitch, Harmonies
    - Dansla116 - Merged
-7. Sex Pistols - Anarchy in the U.K.
+8. Sex Pistols - Anarchy in the U.K.
    - Sygenysis, Nunchuck - Drums, Lyrics, Pitch, Harmonies, Guitar, Bass
    - _Note:_ Guitar Hero III has audio from a 2007 re-record.  This custom used audio from the 1976 original.  The two versions are so different, that merging them is unreasonable.  So I've opted to just keep the entire custom chart with the original recording.
 
 ### Guitar Hero III: Legends of Rock DLC:
-8. DragonForce - Heroes of Our Time
+9. DragonForce - Heroes of Our Time
    - _(original has rhythm instead of bass)_
    - Mickelräven - Bass, Drums, Lyrics, Pitch
    - Dansla116 - Merged
-9. DragonForce - Revolution Deathsquad
-   - _(original has rhythm instead of bass)_
-   - YoShibyl - Bass, Drums, Lyrics, Pitch
-   - Dansla116 - Merged
-10. Linkin Park - No More Sorrow
+10. DragonForce - Revolution Deathsquad
+    - _(original has rhythm instead of bass)_
+    - YoShibyl - Bass, Drums, Lyrics, Pitch
+    - Dansla116 - Merged
+11. Linkin Park - No More Sorrow
     - MB1Nightmare - Drums, Lyrics, Pitch, Harmonies
     - Dansla116 - Merged
-11. Sex Pistols - Problems (Live)
+12. Sex Pistols - Problems (Live)
     - Sygenysis, Nunchuck - Drums, Lyrics, Pitch
     - _Note:_ Guitar Hero III DLC has audio from a 2007 live recording.  The custom used audio from the 1976 original.  The two versions are so different, that merging them is unreasonable.  So I’ve opted to just keep the entire custom chart with the original recording.
 
@@ -72,7 +74,7 @@ _(none)_
 _(none)_
 
 ### Guitar Hero On Tour:
-12. Lynyrd Skynyrd - I Know a Little
+13. Lynyrd Skynyrd - I Know a Little
     - Sygenysis, Nunchuck - Drums, Lyrics, Pitch
 
 ### Guitar Hero On Tour: Decades:
@@ -115,7 +117,7 @@ These tracks have one or more charts not included in the original game and lyric
    - yellowdog - Expert Drums, Lyrics
    - Dansla116 - Merged
 9. Matthew Sweet - Girlfriend
-    - _(original has rhythm instead of bass)_
+   - _(original has rhythm instead of bass)_
    - TylerFG, Nightmare Lyra - Expert Drums, Lyrics
    - Dansla116 - Merged
 11. Pretenders, The - Tattooed Love Boys
@@ -135,13 +137,13 @@ These tracks have one or more charts not included in the original game and lyric
     - pksage, 4EverfreeBrony - Bass, Drums
     - Jaded - Lyrics
     - Dansla116 - Merged
+
+### Guitar Hero II (Xbox 360) DLC:
 14. Protest the Hero - Bury the Hatchet
     - Guyshenig, CarlTheHomeless, BongOfDestiny, Lowlander2 - Expert Drums, Lyrics, Pitch, Harmonies, Expert Keys
     - Dansla116 - Merged
     - _Note<sup>1</sup>:_ Includes Expert Pro Keys but there were merge difficulties
     - _Note<sup>2</sup>:_ Includes full difficulty Drums and Keys but they are just slight variations / duplicates of Expert Drums and Keys
-
-### Guitar Hero II (Xbox 360) DLC:
 15. Dropkick Murphys - State of Massachusetts, The
     - Boo, Bulbasaruman - Expert Drums, Lyrics, Pitch
     - Dansla116 - Merged
@@ -374,7 +376,7 @@ _(none)_
 
 ---
 
-# Nothing _(109/194)_
+# Nothing _(108/194)_
 These tracks have no additional content.
 
 ### Guitar Hero:
@@ -399,142 +401,141 @@ These tracks have no additional content.
 15. Breaking Wheel - One for the Road
 16. Buckethead - Jordan
     - _(instrumental)_
-17. Count Zero - Radium Eyes
-18. Dick Dale - Misirlou
+17. Dick Dale - Misirlou
     - _(instrumental)_
-19. Iggy Pop and the Stooges - Search and Destroy
-20. Last Vegas, The - Raw Dog
-21. Neighborhoods, The - Parasite
-22. Rolling Stones, The - Can't You Hear Me Knocking
+18. Iggy Pop and the Stooges - Search and Destroy
+19. Last Vegas, The - Raw Dog
+20. Neighborhoods, The - Parasite
+21. Rolling Stones, The - Can't You Hear Me Knocking
     - _(original has rhythm instead of bass)_
-23. VAGIANT - FTK
-24. Valient Thorr - Fall of Pangea
-25. Voivod - X-Stream, The
+22. VAGIANT - FTK
+23. Valient Thorr - Fall of Pangea
+24. Voivod - X-Stream, The
 
 ### Guitar Hero II (Xbox 360):
-26. Noble Rot - Kicked to the Curb
-27. Ounce of Self - Drink Up
-28. Pearl Jam - Life Wasted
-29. Rancid - Salvation
+25. Noble Rot - Kicked to the Curb
+26. Ounce of Self - Drink Up
+27. Pearl Jam - Life Wasted
+28. Rancid - Salvation
 
 ### Guitar Hero II (Xbox 360) DLC:
-30. Bled, The - You Should Be Ashamed of Myself
-31. Los Rodriguez - Sin Documentos
-32. Maylene and the Sons of Disaster - Memories of the Grove
-33. Pleymo - Sept
+29. Bled, The - You Should Be Ashamed of Myself
+30. Los Rodriguez - Sin Documentos
+31. Maylene and the Sons of Disaster - Memories of the Grove
+32. Pleymo - Sept
 
 ### Guitar Hero Encore: Rocks the 80s:
-34. Oingo Boingo - Only a Lad
+33. Oingo Boingo - Only a Lad
 
 ### Guitar Hero III: Legends of Rock:
-35. Bret Michaels Band - Go That Far
+34. Bret Michaels Band - Go That Far
     - _(original has rhythm instead of bass)_
-36. Cream - Sunshine of Your Love
-37. Hellacopters, The - I'm in the Band
-38. L.A. Slum Lords - Down N' Dirty
-39. Lions - Metal Heavy Lady
-40. Naast - Mauvais Garçon
-41. Revolverheld - Generation Rock
+35. Cream - Sunshine of Your Love
+36. Hellacopters, The - I'm in the Band
+37. L.A. Slum Lords - Down N' Dirty
+38. Lions - Metal Heavy Lady
+39. Naast - Mauvais Garçon
+40. Revolverheld - Generation Rock
 
 ### Guitar Hero III: Legends of Rock DLC:
-42. Aerosmith - Same Old Song and Dance
+41. Aerosmith - Same Old Song and Dance
     - _(original has rhythm instead of bass)_
-43. AFI - Carcinogen Crush
-44. Buckethead - Soothsayer
+42. AFI - Carcinogen Crush
+43. Buckethead - Soothsayer
     - _(instrumental)_
-45. Coldplay - God Put a Smile upon Your Face
-46. Def Leppard - Nine Lives
-47. Dropkick Murphys - (F)lannigan's Ball
-48. Dropkick Murphys - Famous For Nothing
-49. Extremoduro - So Payaso
+44. Coldplay - God Put a Smile upon Your Face
+45. Def Leppard - Nine Lives
+46. Dropkick Murphys - (F)lannigan's Ball
+47. Dropkick Murphys - Famous For Nothing
+48. Extremoduro - So Payaso
     - _(original has rhythm instead of bass)_
-50. Flyleaf - Tina
-51. God of War II - End Begins (to Rock), The
+49. Flyleaf - Tina
+50. God of War II - End Begins (to Rock), The
     - _(instrumental)_
-52. L70ETC - I Am Murloc
-53. Marilyn Manson - Putting Holes in Happiness (Nick Zinner Remix)
-54. Martin O'Donnell and Michael Salvatori - Halo Theme MJOLNIR Mix (ft. Steve Vai)
-    - _(original has rhythm instead of bass)_
-    - _(instrumental)_
-55. Mastodon - Sleeping Giant
-56. Motörhead - Motörhead
-57. Motörhead - Stay Clean
-58. Muse - Exo-Politics
-59. Slash - Slash Guitar Battle
+51. L70ETC - I Am Murloc
+52. Marilyn Manson - Putting Holes in Happiness (Nick Zinner Remix)
+53. Martin O'Donnell and Michael Salvatori - Halo Theme MJOLNIR Mix (ft. Steve Vai)
     - _(original has rhythm instead of bass)_
     - _(instrumental)_
-60. Steve Ouimette - Top Gun Anthem
+54. Mastodon - Sleeping Giant
+55. Motörhead - Motörhead
+56. Motörhead - Stay Clean
+57. Muse - Exo-Politics
+58. Slash - Slash Guitar Battle
+    - _(original has rhythm instead of bass)_
     - _(instrumental)_
-61. Steve Ouimette - We Three Kings
+59. Steve Ouimette - Top Gun Anthem
+    - _(instrumental)_
+60. Steve Ouimette - We Three Kings
     - _(original has rhythm instead of bass)_
     - _(instrumental)_
     - _(instrumental)_
-62. Tom Morello - Tom Morello Guitar Battle
+61. Tom Morello - Tom Morello Guitar Battle
     - _(original has rhythm instead of bass)_
     - _(instrumental)_
-63. Velvet Revolver - Messages
+62. Velvet Revolver - Messages
 
 ### Guitar Hero: Aerosmith:
-64. Aerosmith - Beyond Beautiful
+63. Aerosmith - Beyond Beautiful
     - _(original has rhythm instead of bass)_
-65. Aerosmith - Bright Light Fright
-66. Aerosmith - Combination
-67. Aerosmith - Draw the Line
+64. Aerosmith - Bright Light Fright
+65. Aerosmith - Combination
+66. Aerosmith - Draw the Line
     - Zantor - Lyrics
-68. Aerosmith - Kings and Queens
-69. Aerosmith - Let the Music Do the Talking
+67. Aerosmith - Kings and Queens
+68. Aerosmith - Let the Music Do the Talking
     - _(original has rhythm instead of bass)_
-70. Aerosmith - Make It
-77. Aerosmith - Movin' Out
-72. Aerosmith - No Surprize
+69. Aerosmith - Make It
+70. Aerosmith - Movin' Out
+71. Aerosmith - No Surprize
     - _(original has rhythm instead of bass)_
-73. Aerosmith - Nobody's Fault
-74. Aerosmith - Pandora's Box
-75. Aerosmith - Pink
-76. Aerosmith - Uncle Salty
-77. Joe Perry - Joe Perry Guitar Battle
+72. Aerosmith - Nobody's Fault
+73. Aerosmith - Pandora's Box
+74. Aerosmith - Pink
+75. Aerosmith - Uncle Salty
+76. Joe Perry - Joe Perry Guitar Battle
     - _(original has rhythm instead of bass)_
     - (instrumental)
-78. Joe Perry - Mercy
-79. Joe Perry - Shakin' My Cage
-80. Joe Perry - Talk Talkin'
+77. Joe Perry - Mercy
+78. Joe Perry - Shakin' My Cage
+79. Joe Perry - Talk Talkin'
     - _(original has rhythm instead of bass)_
-81. Kinks, The - All Day and All of the Night
-82. Lenny Kravitz - Always on the Run (ft. Slash)
-83. Mott the Hoople - All the Young Dudes
-84. New York Dolls - Personality Crisis
-85. Ted Nugent - Cat Scratch Fever
+80. Kinks, The - All Day and All of the Night
+81. Lenny Kravitz - Always on the Run (ft. Slash)
+82. Mott the Hoople - All the Young Dudes
+83. New York Dolls - Personality Crisis
+84. Ted Nugent - Cat Scratch Fever
     - IaSg14 - Lyrics
 
 ### Guitar Hero On Tour:
-86. Beatsteaks - Monster
-87. Daughtry - What I Want (ft. Slash)
-88. Mademoiselle K - Ça Me Vexe
-89. Steve Miller Band - Jet Airliner
+85. Beatsteaks - Monster
+86. Daughtry - What I Want (ft. Slash)
+87. Mademoiselle K - Ça Me Vexe
+88. Steve Miller Band - Jet Airliner
 
 ### Guitar Hero On Tour: Decades:
-90. Finley - Diventerai Una Star
-91. Pereza - Estrella Polar
-92. Stone Temple Pilots - Down
+89. Finley - Diventerai Una Star
+90. Pereza - Estrella Polar
+91. Stone Temple Pilots - Down
 
 ### Guitar Hero On Tour: Modern Hits:
-93. Angels and Airwaves - Call to Arms
-94. Atreyu - Falling Down
-95. Avril Lavigne - When You're Gone
-96. Deluxe - Que No
-97. Donnas, The - What Do I Have to Do
-98. Duke Spirit, The - Lassoo
-99. Evanescence - Sweet Sacrifice
-100. Franz Ferdinand - Fallen, The
-101. Kings of Leon - On Call
-102. Klaxons - Golden Skans
-103. Lenny Kravitz - Where Are We Runnin'?
-104. Maxïmo Park - Our Velocity
-105. Modest Mouse - Dashboard
-106. Negramaro - Via Le Mani Dagli Occhi
-107. Phantom Planet - Do the Panic
-108. Phoenix - Napoleon Says
-109. Weezer - Everybody Get Dangerous
+92. Angels and Airwaves - Call to Arms
+93. Atreyu - Falling Down
+94. Avril Lavigne - When You're Gone
+95. Deluxe - Que No
+96. Donnas, The - What Do I Have to Do
+97. Duke Spirit, The - Lassoo
+98. Evanescence - Sweet Sacrifice
+99. Franz Ferdinand - Fallen, The
+100. Kings of Leon - On Call
+101. Klaxons - Golden Skans
+102. Lenny Kravitz - Where Are We Runnin'?
+103. Maxïmo Park - Our Velocity
+104. Modest Mouse - Dashboard
+105. Negramaro - Via Le Mani Dagli Occhi
+106. Phantom Planet - Do the Panic
+107. Phoenix - Napoleon Says
+108. Weezer - Everybody Get Dangerous
 
 ---
 
