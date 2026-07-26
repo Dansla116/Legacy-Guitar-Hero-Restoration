@@ -1,4 +1,4 @@
-This project is dedicated to adding full-band charts to all the tracks from the original Guitar Hero games that never saw light in later games that had the full-band experience.  Those games featured a total of 402 tracks.  While 208 of those were featured in either a later Guitar Hero (World Tour and beyond) or a Rock Band game, the other 194 were not.  Below is a list of tracks - grouped first by level of progress and then by original game.
+This project is dedicated to adding full-band charts to all the tracks from the original Guitar Hero games that never appeared in later games that had the full-band experience.  Those games featured a total of 402 tracks.  While 208 of those were featured in either a later Guitar Hero (World Tour and beyond) or a Rock Band game, the other 194 were not.  Below is a list of tracks - grouped first by level of progress and then by original game.
 
 ---
 
@@ -6,7 +6,7 @@ This project is dedicated to adding full-band charts to all the tracks from the 
 
 ---
 
-# Complete _(14/194)_
+# Complete _(15/194)_
 These tracks have charts for all four difficulties for the main band (Guitar, Bass, Drums, Vocals).  These are considered complete, but may still benefit from rhythm, keys, or harmonies.
 
 ### Guitar Hero:
@@ -20,7 +20,7 @@ These tracks have charts for all four difficulties for the main band (Guitar, Ba
 
 2. All That Remains - Six
    - Mason Sparkle - Expert Drums, Lyrics
-   - Dansla116 - Easy-Hard Drums, Pitch, Harmonies, Merged
+   - Dansla116 - Easy-Hard Drums, Pitch, Harmonies, Merged, Guitar Solo Events
 3. Count Zero - Radium Eyes
    - Dansla116 - Drums, Lyrics, Pitch, Merged, Guitar Solo Events
 4. Dethklok - Thunderhorse
@@ -31,53 +31,54 @@ These tracks have charts for all four difficulties for the main band (Guitar, Ba
    - Dansla116 - Merged, Tempo Map
 
 ### Guitar Hero II (Xbox 360):
-
 _(none)_
 
 ### Guitar Hero II (Xbox 360) DLC:
 
-_(none)_
+6. Atreyu - Ex's and Oh's
+   - Paulo de Bourgogne - Expert 4-Lane Drums
+   - Dansla116 - Easy-Hard Pro Drums, Lyrics, Pitch, Merged, Guitar Solo Events
+   - _Note:_ Converted Paulo de Bourgogne's Expert 4-Lane Drums to Pro Drums.  They had Easy-Hard charts, but the only difference was one lane removed per difficulty lower than Expert.  So I re-derived all the difficulties from Expert.  Also, Guitar Hero II (Xbox 360) DLC seems to have louder Guitar and Bass stems than everything else.  So I've reduced those by 5dB.
 
 ### Guitar Hero Encore: Rocks the 80s:
 
-6. Accept - Balls to the Wall
+7. Accept - Balls to the Wall
    - Ghostbyob - Drums, Lyrics, Pitch
    - Dansla116 - Merged
-7. Faster Pussycat - Bathroom Wall
+8. Faster Pussycat - Bathroom Wall
    - Sygenysis, Nunchuck - Drums, Lyrics, Pitch
    - Dansla116 - Merged
 
 ### Guitar Hero III: Legends of Rock:
 
-8. Backyard Babies - Minus Celsius
+9. Backyard Babies - Minus Celsius
    - TheWay123, yb6 - Drums, Lyrics, Pitch, Harmonies
    - Dansla116 - Merged
-9. Sex Pistols - Anarchy in the U.K.
-   - Sygenysis, Nunchuck - Drums, Lyrics, Pitch, Harmonies, Guitar, Bass
-   - _Note:_ Guitar Hero III has audio from a 2007 re-record.  This custom used audio from the 1976 original.  The two versions are so different, that merging them is unreasonable.  So I've opted to just keep the entire custom chart with the original recording.
+10. Sex Pistols - Anarchy in the U.K.
+    - Sygenysis, Nunchuck - Drums, Lyrics, Pitch, Harmonies, Guitar, Bass
+    - _Note:_ Guitar Hero III has audio from a 2007 re-record.  This custom used audio from the 1976 original.  The two versions are so different, that merging them is unreasonable.  So I've opted to just keep the entire custom chart with the original recording.
 
 ### Guitar Hero III: Legends of Rock DLC:
-10. DragonForce - Heroes of Our Time
+11. DragonForce - Heroes of Our Time
     - _(original has rhythm instead of bass)_
     - Mickelräven - Bass, Drums, Lyrics, Pitch
     - Dansla116 - Merged
-11. DragonForce - Revolution Deathsquad
+12. DragonForce - Revolution Deathsquad
     - _(original has rhythm instead of bass)_
     - YoShibyl - Bass, Drums, Lyrics, Pitch
     - Dansla116 - Merged
-12. Linkin Park - No More Sorrow
+13. Linkin Park - No More Sorrow
     - MB1Nightmare - Drums, Lyrics, Pitch, Harmonies
     - Dansla116 - Merged
-13. Sex Pistols - Problems (Live)
+14. Sex Pistols - Problems (Live)
     - Sygenysis, Nunchuck - Drums, Lyrics, Pitch
-    - _Note:_ Guitar Hero III DLC has audio from a 2007 live recording.  The custom used audio from the 1976 original.  The two versions are so different, that merging them is unreasonable.  So I’ve opted to just keep the entire custom chart with the original recording.
+    - _Note:_ Guitar Hero III DLC has audio from a 2007 live recording.  The custom used audio from the 1976 original.  The two versions are so different, that merging them is unreasonable.  So I've opted to just keep the entire custom chart with the original recording.
 
 ### Guitar Hero: Aerosmith:
-
 _(none)_
 
 ### Guitar Hero On Tour:
-14. Lynyrd Skynyrd - I Know a Little
+15. Lynyrd Skynyrd - I Know a Little
     - Sygenysis, Nunchuck - Drums, Lyrics, Pitch
 
 ### Guitar Hero On Tour: Decades:
@@ -212,7 +213,7 @@ These tracks have one or more charts not included in the original game and lyric
 31. Aerosmith - Mama Kin
     - Sygenysis, Nunchuck - Drums, Lyrics
     - Dansla116 - Merged
-    - _Note:_ Guitar Hero Aerosmith has audio from a 2008 re-record.  This custom used audio from the 1973 original.  The two versions are different, but I’ve merged them anyway and modified the drum chart to match the re-record.
+    - _Note:_ Guitar Hero Aerosmith has audio from a 2008 re-record.  This custom used audio from the 1973 original.  The two versions are different, but I've merged them anyway and modified the drum chart to match the re-record.
 
 ### Guitar Hero On Tour:
 32. Europe - Rock the Night
@@ -244,7 +245,7 @@ These tracks have one or more charts not included in the original game and lyric
 
 ---
 
-# Any Additional Chart but no Lyrics _(2/194)_
+# Any Additional Chart but no Lyrics _(1/194)_
 These tracks have one or more charts not featured in the original game, but also do not have lyrics like they should.
 
 ### Guitar Hero:
@@ -257,8 +258,7 @@ _(none)_
 _(none)_
 
 ### Guitar Hero II (Xbox 360) DLC:
-1. Atreyu - Ex's and Oh's
-   - Paulo de Bourgogne - 4-Lane Drums
+_(none)_
 
 ### Guitar Hero Encore: Rocks the 80s:
 _(none)_
@@ -273,7 +273,7 @@ _(none)_
 _(none)_
 
 ### Guitar Hero On Tour:
-2. Los Lonely Boys - Heaven
+1. Los Lonely Boys - Heaven
    - 4EverfreeBrony - Expert Drums
 
 ### Guitar Hero On Tour: Decades:
@@ -293,7 +293,7 @@ These tracks only have lyrics added and no additional playable charts.
 
 ### Guitar Hero II:
 2. Butthole Surfers - Who Was in My Room Last Night?
-    - _(original has rhythm instead of bass)_
+   - _(original has rhythm instead of bass)_
    - yellowdog - Lyrics
 3. Drist - Arterial Black
    - _(original has rhythm instead of bass)_
@@ -305,14 +305,14 @@ These tracks only have lyrics added and no additional playable charts.
 6. Shadows Fall - Light That Blinds, The
    - GuitarZero132 - Lyrics
 7. Suicidal Tendencies - Institutionalized
-    - _(original has rhythm instead of bass)_
+   - _(original has rhythm instead of bass)_
    - Supradyke - Lyrics
 8. That Handsome Devil - Elephant Bones
    - OrangeHat - Lyrics
 
 ### Guitar Hero II (Xbox 360):
 9. Deep Purple - Hush
-   - laSg14 - Lyrics
+   - IaSg14 - Lyrics
 
 ### Guitar Hero II (Xbox 360) DLC:
 10. Soilwork - Exile
@@ -372,7 +372,7 @@ _(none)_
 29. Offspring, The - Half-Truism
     - DirtyHertz - Lyrics
 30. Yellowcard - Lights and Sounds
-    - Boldly - Lyrics
+    - Buldy - Lyrics
 
 ---
 
@@ -428,18 +428,18 @@ These tracks have no additional content.
 33. Oingo Boingo - Only a Lad
 
 ### Guitar Hero III: Legends of Rock:
-34. Bret Michaels Band - Go That Far
+34. Aerosmith - Same Old Song and Dance
     - _(original has rhythm instead of bass)_
-35. Cream - Sunshine of Your Love
-36. Hellacopters, The - I'm in the Band
-37. L.A. Slum Lords - Down N' Dirty
-38. Lions - Metal Heavy Lady
-39. Naast - Mauvais Garçon
-40. Revolverheld - Generation Rock
+35. Bret Michaels Band - Go That Far
+    - _(original has rhythm instead of bass)_
+36. Cream - Sunshine of Your Love
+37. Hellacopters, The - I'm in the Band
+38. L.A. Slum Lords - Down N' Dirty
+39. Lions - Metal Heavy Lady
+40. Naast - Mauvais Garçon
+41. Revolverheld - Generation Rock
 
 ### Guitar Hero III: Legends of Rock DLC:
-41. Aerosmith - Same Old Song and Dance
-    - _(original has rhythm instead of bass)_
 42. AFI - Carcinogen Crush
 43. Buckethead - Soothsayer
     - _(instrumental)_
@@ -480,7 +480,6 @@ These tracks have no additional content.
 64. Aerosmith - Bright Light Fright
 65. Aerosmith - Combination
 66. Aerosmith - Draw the Line
-    - Zantor - Lyrics
 67. Aerosmith - Kings and Queens
 68. Aerosmith - Let the Music Do the Talking
     - _(original has rhythm instead of bass)_
@@ -494,7 +493,7 @@ These tracks have no additional content.
 75. Aerosmith - Uncle Salty
 76. Joe Perry - Joe Perry Guitar Battle
     - _(original has rhythm instead of bass)_
-    - (instrumental)
+    - _(instrumental)_
 77. Joe Perry - Mercy
 78. Joe Perry - Shakin' My Cage
 79. Joe Perry - Talk Talkin'
@@ -585,124 +584,124 @@ These tracks have an official full-band chart.  This project will not include th
 34. Anarchy Club - Collide (Rock Band Network 2.0)
 35. Anthrax - Madhouse (Rock Band 2 DLC) <sup>l</sup>
 36. Avenged Sevenfold - Beast and the Harlot (Rock Band 3)
-37. Black Sabbath - War Pigs (Rock Band DLC)
-38. Brian Kahanek - Gemini (Rock Band Network 2.0)
-39. Brian Setzer (credited to Stray Cats) - Rock This Town (Rock Band 4 DLC)
-40. Cheap Trick - Surrender (Rock Band 3 DLC) <sup>l</sup>
-41. Danzig - Mother (Guitar Hero: Smash Hits)
-42. Foo Fighters - Monkey Wrench (Rock Band 2 DLC)
-43. Freezepop - Less Talk More Rokk (Rock Band 2 DLC)
-44. Guns N' Roses - Sweet Child o' Mine (Fortnite Festival: Season 4 ft. Metallica)
-45. Heart - Crazy on You (Rock Band 4 DLC)
-46. Honest Bob and the Factory-to-Dealer Incentives - Soy Bomb (Rock Band Network 2.0)
-47. Jane's Addiction - Stop! (Rock Band 4 DLC)
-48. Kansas - Carry On Wayward Son (Rock Band 2)
-49. KISS - Strutter (Rock Band 3 DLC) <sup>l</sup>
-50. Lamb of God - Laid to Rest (Metal Track Pack)
-51. Lynyrd Skynyrd - Free Bird (Rock Band 3)
-52. Megadeth - Hangar 18 (Rock Band 2 DLC)
-53. Mötley Crüe - Shout at the Devil (Guitar Hero: Smash Hits)
-54. Nirvana - Heart-Shaped Box (Rock Band 3 DLC)
-55. Police, The - Message in a Bottle (Rock Band Track Pack Vol. 2)
-56. Rage Against the Machine - Killing in the Name (Rock Band 3 DLC)
-57. Reverend Horton Heat - Psychobilly Freakout (Guitar Hero: Smash Hits)
-58. Rush - YYZ (Rock Band 2 DLC)
-59. Spinal Tap - Tonight I'm Gonna Rock You Tonight (Rock Band 2 DLC)
-60. Stone Temple Pilots - Trippin' on a Hole in a Paper Heart (Rock Band 2 DLC)
-61. Sword, The - Freya (Guitar Hero: Smash Hits)
-62. Van Halen - You Really Got Me (Guitar Hero: Van Halen)
-63. Warrant - Cherry Pie (Rock Band 4 DLC)
+37. Bang Camaro - Push Push (Lady Lightning) (Rock Band Network 1.0)
+38. Black Sabbath - War Pigs (Rock Band DLC)
+39. Brian Kahanek - Gemini (Rock Band Network 2.0)
+40. Brian Setzer (credited to Stray Cats) - Rock This Town (Rock Band 4 DLC)
+41. Cheap Trick - Surrender (Rock Band 3 DLC) <sup>l</sup>
+42. Danzig - Mother (Guitar Hero: Smash Hits)
+43. Foo Fighters - Monkey Wrench (Rock Band 2 DLC)
+44. Freezepop - Less Talk More Rokk (Rock Band 2 DLC)
+45. Guns N' Roses - Sweet Child o' Mine (Fortnite Festival: Season 4 ft. Metallica)
+46. Heart - Crazy on You (Rock Band 4 DLC)
+47. Honest Bob and the Factory-to-Dealer Incentives - Soy Bomb (Rock Band Network 2.0)
+48. Jane's Addiction - Stop! (Rock Band 4 DLC)
+49. Kansas - Carry On Wayward Son (Rock Band 2)
+50. KISS - Strutter (Rock Band 3 DLC) <sup>l</sup>
+51. Lamb of God - Laid to Rest (Metal Track Pack)
+52. Lynyrd Skynyrd - Free Bird (Rock Band 3)
+53. Megadeth - Hangar 18 (Rock Band 2 DLC)
+54. Mötley Crüe - Shout at the Devil (Guitar Hero: Smash Hits)
+55. Nirvana - Heart-Shaped Box (Rock Band 3 DLC)
+56. Police, The - Message in a Bottle (Rock Band Track Pack Vol. 2)
+57. Rage Against the Machine - Killing in the Name (Rock Band 3 DLC)
+58. Reverend Horton Heat - Psychobilly Freakout (Guitar Hero: Smash Hits)
+59. Rush - YYZ (Rock Band 2 DLC)
+60. Spinal Tap - Tonight I'm Gonna Rock You Tonight (Rock Band 2 DLC)
+61. Stone Temple Pilots - Trippin' on a Hole in a Paper Heart (Rock Band 2 DLC)
+62. Sword, The - Freya (Guitar Hero: Smash Hits)
+63. Van Halen - You Really Got Me (Guitar Hero: Van Halen)
+64. Warrant - Cherry Pie (Rock Band 4 DLC)
+65. Wolfmother - Woman (Rock Band 2 DLC)
 
 ### Guitar Hero II (Xbox 360):
-64. Alice Cooper - Billion Dollar Babies (Rock Band 2 DLC) <sup>l</sup>
-65. Iron Maiden - Trooper, The (Rock Band 2 DLC)
-66. Rick Derringer - Rock and Roll, Hoochie Koo (Rock Band 4)
-67. Toadies - Possum Kingdom (Rock Band 3 DLC)
+66. Alice Cooper - Billion Dollar Babies (Rock Band 2 DLC) <sup>l</sup>
+67. Iron Maiden - Trooper, The (Rock Band 2 DLC)
+68. Rick Derringer - Rock and Roll, Hoochie Koo (Rock Band 4)
+69. Toadies - Possum Kingdom (Rock Band 3 DLC)
 
 ### Guitar Hero II (Xbox 360) DLC:
-68. My Chemical Romance - Famous Last Words (Rock Band 4 DLC)
-69. My Chemical Romance - Teenagers (Rock Band 3 DLC)
+70. My Chemical Romance - Famous Last Words (Rock Band 4 DLC)
+71. My Chemical Romance - Teenagers (Rock Band 3 DLC)
 
 ### Guitar Hero Encore: Rocks the 80s:
-70. .38 Special - Hold on Loosely (Rock Band 3 DLC)
-71. Anthrax - Caught in a Mosh (Rock Band 3)
-72. Asia - Heat of the Moment (Rock Band 4 DLC)
-73. Billy Squier - Lonely Is the Night (Rock Band 4 DLC)
-74. Dead Kennedys - Police Truck (Rock Band 2 DLC)
-75. Dio - Holy Diver (Rock Band 2 DLC)
-76. Extreme - Play with Me (Guitar Hero: Smash Hits)
-77. Flock of Seagulls, A - I Ran (So Far Away) (Rock Band 3 DLC)
-78. Go-Go's, The - We Got the Beat (Rock Band 2)
-79. Judas Priest - Hellion, The / Electric Eye (Rock Band DLC)
-80. Poison - Nothin' but a Good Time (Rock Band 3 DLC)
-81. Police, The - Synchronicity II (Rock Band Track Pack Vol. 1)
-82. Quiet Riot - Metal Health (Bang Your Head) (Rock Band Blitz)
-83. Ratt - Round and Round (Rock Band 2)
-84. Romantics, The - What I Like About You (Rock Band 4 DLC)
-85. Scandal - Warrior, The (Rock Band 4)
-86. Scorpions - No One Like You (Rock Band 4) <sup>r</sup>
-87. Skid Row - 18 and Life (Rock Band 4 DLC)
-88. Twisted Sister - I Wanna Rock (Rock Band 4 DLC)
-89. Vapors, The - Turning Japanese (Rock Band 3 DLC)
-90. Winger - Seventeen (Rock Band 4 DLC)
-91. X - Los Angeles (Rock Band 2 DLC)
+72. .38 Special - Hold on Loosely (Rock Band 3 DLC)
+73. Anthrax - Caught in a Mosh (Rock Band 3)
+74. Asia - Heat of the Moment (Rock Band 4 DLC)
+75. Billy Squier - Lonely Is the Night (Rock Band 4 DLC)
+76. Dead Kennedys - Police Truck (Rock Band 2 DLC)
+77. Dio - Holy Diver (Rock Band 2 DLC)
+78. Extreme - Play with Me (Guitar Hero: Smash Hits)
+79. Flock of Seagulls, A - I Ran (So Far Away) (Rock Band 3 DLC)
+80. Go-Go's, The - We Got the Beat (Rock Band 2)
+81. Judas Priest - Hellion, The / Electric Eye (Rock Band DLC)
+82. Poison - Nothin' but a Good Time (Rock Band 3 DLC)
+83. Police, The - Synchronicity II (Rock Band Track Pack Vol. 1)
+84. Quiet Riot - Metal Health (Bang Your Head) (Rock Band Blitz)
+85. Ratt - Round and Round (Rock Band 2)
+86. Romantics, The - What I Like About You (Rock Band 4 DLC)
+87. Scandal - Warrior, The (Rock Band 4)
+88. Scorpions - No One Like You (Rock Band 4) <sup>r</sup>
+89. Skid Row - 18 and Life (Rock Band 4 DLC)
+90. Twisted Sister - I Wanna Rock (Rock Band 4 DLC)
+91. Vapors, The - Turning Japanese (Rock Band 3 DLC)
+92. Winger - Seventeen (Rock Band 4 DLC)
+93. X - Los Angeles (Rock Band 2 DLC)
 
 ### Guitar Hero III: Legends of Rock:
-92. AFI - Miss Murder (Rock Band 2 DLC)
-93. Alice Cooper - School's Out (Rock Band 2 DLC) <sup>l</sup>
-94. Beastie Boys - Sabotage (Rock Band)
-95. Black Sabbath - Paranoid (Rock Band)
-96. Dead Kennedys - Holiday in Cambodia (Rock Band Classic Rock Track Pack)
-97. Die Toten Hosen - Hier kommt Alex (Rock Band (Europe))
-98. Disturbed - Stricken (Rock Band 2 DLC)
-99. DragonForce - Through the Fire and Flames (Rock Band 3 DLC)
-100. Endless Sporadic, An - Impulse (Rock Band Network 2.0)
-101. Fall of Troy, The - F.C.P.R.E.M.I.X. (Rock Band 4 DLC)
-102. Foghat - Slow Ride (Rock Band 4 DLC)
-103. Guns N' Roses - Welcome to the Jungle (Fortnite Festival: Season 4 ft. Metallica)
-104. Heart - Barracuda (Rock Band 3 DLC)
-105. Iron Maiden - Number of the Beast, The (Rock Band DLC)
-106. Kaiser Chiefs - Ruby (LEGO Rock Band)
-107. Killers, The - When You Were Young (Rock Band)
-108. Killswitch Engage - My Curse (Rock Band DLC)
-109. KISS - Rock and Roll All Nite (Rock Band 3 DLC) <sup>l</sup>
-110. Lacuna Coil - Closer (Rock Band Metal Track Pack)
-111. Living Colour - Cult of Personality (Rock Band Blitz)
-112. Metallica - One (Guitar Hero: Metallica)
-113. Mountain - Mississippi Queen (Rock Band)
-114. Muse - Knights of Cydonia (Rock Band 4 DLC)
-115. Pat Benatar - Hit Me with Your Best Shot (Rock Band Classic Rock Track Pack)
-116. Pearl Jam - Even Flow (Rock Band 2 DLC)
-117. Poison - Talk Dirty to Me (Rock Band 3 DLC)
-118. Priestess - Lay Down (Guitar Hero: Smash Hits)
-119. Prototype - Way It Ends, The (Rock Band Network 2.0)
-120. Queens of the Stone Age - 3's and 7's (Rock Band Metal Track Pack)
-121. Rage Against the Machine - Bulls on Parade (Rock Band Metal Track Pack)
-122. Red Hot Chili Peppers - Suck My Kiss (Rock Band 2 DLC)
-123. Rise Against - Prayer of the Refugee (Rock Band 2 DLC)
-124. Santana - Black Magic Woman (Rock Band 3 DLC)
-125. Scorpions - Rock You Like a Hurricane (Rock Band 4 DLC)
-126. Slayer - Raining Blood (Rock Band 3 DLC)
-127. Slipknot - Before I Forget (Rock Band 3)
-128. Smashing Pumpkins, The - Cherub Rock (Rock Band)
-129. Social Distortion - Story of My Life (Rock Band 2 DLC)
-130. Sonic Youth - Kool Thing (Rock Band DLC)
-131. Stevie Ray Vaughan and Double Trouble - Pride and Joy (Rock Band 2 DLC)
-132. Strokes, The - Reptilia (Rock Band)
-133. Tenacious D. - Metal, The (Rock Band 2 DLC)
-134. Weezer - My Name Is Jonas (Rock Band 2 DLC)
-135. White Zombie - Black Sunshine (Rock Band 2 DLC)
-136. Who, The - Seeker, The (Rock Band 4)
+94. AFI - Miss Murder (Rock Band 2 DLC)
+95. Alice Cooper - School's Out (Rock Band 2 DLC) <sup>l</sup>
+96. Beastie Boys - Sabotage (Rock Band)
+97. Black Sabbath - Paranoid (Rock Band)
+98. Dead Kennedys - Holiday in Cambodia (Rock Band Classic Rock Track Pack)
+99. Die Toten Hosen - Hier kommt Alex (Rock Band (Europe))
+100. Disturbed - Stricken (Rock Band 2 DLC)
+101. DragonForce - Through the Fire and Flames (Rock Band 3 DLC)
+102. Endless Sporadic, An - Impulse (Rock Band Network 2.0)
+103. Fall of Troy, The - F.C.P.R.E.M.I.X. (Rock Band 4 DLC)
+104. Foghat - Slow Ride (Rock Band 4 DLC)
+105. Guns N' Roses - Welcome to the Jungle (Fortnite Festival: Season 4 ft. Metallica)
+106. Heart - Barracuda (Rock Band 3 DLC)
+107. Iron Maiden - Number of the Beast, The (Rock Band DLC)
+108. Kaiser Chiefs - Ruby (LEGO Rock Band)
+109. Killers, The - When You Were Young (Rock Band)
+110. Killswitch Engage - My Curse (Rock Band DLC)
+111. KISS - Rock and Roll All Nite (Rock Band 3 DLC) <sup>l</sup>
+112. Lacuna Coil - Closer (Rock Band Metal Track Pack)
+113. Living Colour - Cult of Personality (Rock Band Blitz)
+114. Metallica - One (Guitar Hero: Metallica)
+115. Mountain - Mississippi Queen (Rock Band)
+116. Muse - Knights of Cydonia (Rock Band 4 DLC)
+117. Pat Benatar - Hit Me with Your Best Shot (Rock Band Classic Rock Track Pack)
+118. Pearl Jam - Even Flow (Rock Band 2 DLC)
+119. Poison - Talk Dirty to Me (Rock Band 3 DLC)
+120. Priestess - Lay Down (Guitar Hero: Smash Hits)
+121. Prototype - Way It Ends, The (Rock Band Network 2.0)
+122. Queens of the Stone Age - 3's and 7's (Rock Band Metal Track Pack)
+123. Rage Against the Machine - Bulls on Parade (Rock Band Metal Track Pack)
+124. Red Hot Chili Peppers - Suck My Kiss (Rock Band 2 DLC)
+125. Rise Against - Prayer of the Refugee (Rock Band 2 DLC)
+126. Santana - Black Magic Woman (Rock Band 3 DLC)
+127. Scorpions - Rock You Like a Hurricane (Rock Band 4 DLC)
+128. Slayer - Raining Blood (Rock Band 3 DLC)
+129. Slipknot - Before I Forget (Rock Band 3)
+130. Smashing Pumpkins, The - Cherub Rock (Rock Band)
+131. Social Distortion - Story of My Life (Rock Band 2 DLC)
+132. Sonic Youth - Kool Thing (Rock Band DLC)
+133. Stevie Ray Vaughan and Double Trouble - Pride and Joy (Rock Band 2 DLC)
+134. Strokes, The - Reptilia (Rock Band)
+135. Tenacious D. - Metal, The (Rock Band 2 DLC)
+136. Weezer - My Name Is Jonas (Rock Band 2 DLC)
+137. White Zombie - Black Sunshine (Rock Band 2 DLC)
+138. Who, The - Seeker, The (Rock Band 4)
 
 ### Guitar Hero III: Legends of Rock DLC:
-137. Aerosmith - Dream On (Fortnite Festival: Season 8 ft. Sabrina Carpenter)
-138. Avenged Sevenfold - Almost Easy (Rock Band 2)
-139. Boston - Peace of Mind (Rock Band Classic Rock Track Pack)
-140. Coldplay - Yellow (Rock Band 3 DLC)
-141. Def Leppard - Photograph (Live) (Rock Band 3 DLC) <sup>s</sup>
-142. Def Leppard - Rock of Ages (Live) (Rock Band 3 DLC) <sup>s</sup>
-143. Deftones - Hole in the Earth (Rock Band 2 DLC)
-144. DragonForce - Operation Ground and Pound (Rock Band 3 DLC)
+139. Aerosmith - Dream On (Fortnite Festival: Season 8 ft. Sabrina Carpenter)
+140. Avenged Sevenfold - Almost Easy (Rock Band 2)
+141. Boston - Peace of Mind (Rock Band Classic Rock Track Pack)
+142. Coldplay - Yellow (Rock Band 3 DLC)
+143. Def Leppard - Photograph (Live) (Rock Band 3 DLC) <sup>s</sup>
+144. Def Leppard - Rock of Ages (Live) (Rock Band 3 DLC) <sup>s</sup>
 145. Deftones - Hole in the Earth (Rock Band 2 DLC)
 146. DragonForce - Operation Ground and Pound (Rock Band 3 DLC)
 147. Foo Fighters - All My Life (Rock Band 2 DLC)
