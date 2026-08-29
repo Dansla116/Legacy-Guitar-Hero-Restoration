@@ -1,0 +1,42 @@
+# [ti:Heart Full of Black]
+# [ar:Burning Brides]
+# [al:Leave No Ashes]
+# [by:<color=#00ffff>Harmonix</color>, Youngblood]
+26646	2024	text	You take me right up to the top of the world
+29495	1677	text	Then you push me over the side
+33233	2062	text	Like an addiction to a fourletter word
+36119	1638	text	Victim of the Western decline
+39804	2067	text	I made a promise by the side of the road
+43323	2270	text	I would bury my halo
+48041	2483	text	I got a heart with a black lining
+51345	1235	text	I got a heart full of black
+54647	2465	text	I got a heart with a black lining
+57937	1232	text	I got a heart full of black
+66165	2055	text	I'm trying to fight it but I don't know what for
+69045	1650	text	There was something holding me back
+72744	2059	text	I need to fight it more than ever before
+75631	1650	text	Now I'm ready for the attack
+79329	2068	text	I'll never be like what I wanna become
+82633	2474	text	As long as you got a piece of the action
+87585	2463	text	I got a heart with a black lining
+90867	1235	text	I got a heart full of black
+94154	2486	text	I got a heart with a black lining
+97469	1238	text	I got a heart full of black
+111865	417	text	Show me
+113520	413	text	Show me
+115160	413	text	Show me
+116808	413	text	Show me
+118448	413	text	Show me
+120104	415	text	Show me
+121756	413	text	Show me
+123400	412	text	Show me!
+132023	2048	text	This doesn't happen to me everyday
+134889	1665	text	I was feeling freer than life
+138598	2052	text	I wouldn't have it any other way
+141467	1645	text	Wanna feel like this all the time
+145225	2035	text	You like to walk along the rocks on the tracks
+148496	2451	text	So I decided to take my love back
+153407	2498	text	I got a heart with a black lining
+156720	1241	text	I got a heart full of black
+159994	2489	text	I got a heart with a black lining
+163321	1225	text	I got a heart full of black
