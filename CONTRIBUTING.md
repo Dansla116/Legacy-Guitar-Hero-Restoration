@@ -1,8 +1,8 @@
 ## Workflow
 
 1. Download the song folder from the repo
-2. Make your changes in your preferred charting software (EOF, Moonscraper, Reaper, etc.)
-3. Test in a game of your choice (Clone Hero, YARG, etc.)
+2. Make your changes in your preferred charting software (EOF, ChartForge, Moonscraper, Reaper, etc.)
+3. Test in a game of your choice (Clone Hero, YARG, RB3DX, GHWTDE, etc.)
 4. Submit a Pull Request with a description of your changes
 
 ---
@@ -12,6 +12,8 @@
 - Check the GitHub Issues for open tasks
 - Refer to the progress report in the README for current status
 - If you're unsure, feel free to pick any incomplete track and contribute what you can
+
+Even if a track looks finished or you only want to work on one part, please open a discussion if you see something that could be better.  We're building a definitive collection together, and every helpful improvement matters.
 
 ---
 
